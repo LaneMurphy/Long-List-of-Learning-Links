@@ -1,5 +1,5 @@
-# Interviewing-Resources
+# Long-List-of-Learning-Links
 
--Links to Resources including videos, sites, articles, practice I find useful for candidate interview prep (currently a work in progress) 
+-Work in progress repository storing links to **FREE** web pages, youtube videos, tutorials, GitHub repos, and general internet sources on topics of all flavors.
 
 
