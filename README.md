@@ -5,5 +5,5 @@
 Frontend Development 
 - Big Frontend Dev [LINK
 ](https://bigfrontend.dev/)
-- Devtools Tech [[LINK
+- Devtools Tech [LINK
 ](https://devtools.tech/)
