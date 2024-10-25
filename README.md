@@ -5,9 +5,9 @@
 
 
 **Frontend Development** 
-- Big Frontend Dev [Link
+- Big Frontend Dev [Site
 ](https://bigfrontend.dev/)
-- Devtools Tech [Link
+- Devtools Tech [Site
 ](https://devtools.tech/)
 
 **Systems Design**
@@ -18,5 +18,8 @@
 - Build Your Own Lisp [Link
 ](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
 
-**Open Source Databases**
+**Databases**
 - Chroma [Github](https://github.com/chroma-core/chroma)
+
+**Programming Languages** 
+- Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang) 
