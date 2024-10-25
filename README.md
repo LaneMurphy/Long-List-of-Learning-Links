@@ -14,6 +14,9 @@
 - Excalidraw - free browser based whiteboard [Link
 ](https://excalidraw.com/)
 
-**Full Projects**
+**Hands On Guided Projects**
 - Build Your Own Lisp [Link
-](https://buildyourownlisp.com/) - [GITHUB](https://github.com/orangeduck/BuildYourOwnLisp) 
+](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
+
+**Open Source Databases**
+- Chroma [Github](https://github.com/chroma-core/chroma)
