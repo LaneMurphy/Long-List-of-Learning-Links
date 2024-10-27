@@ -31,4 +31,4 @@
 
 ## Programming Languages
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
-- Rust [Site](https://www.rust-lang.org/)- [GitHub](https://github.com/rust-lang/rust)
+- Rust [Site](https://www.rust-lang.org/) - [GitHub](https://github.com/rust-lang/rust)
