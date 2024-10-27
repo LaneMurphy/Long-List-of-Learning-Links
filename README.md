@@ -11,8 +11,16 @@
 ](https://devtools.tech/)
 
 ## Systems Design
+### Tools 
 - Excalidraw - free browser based whiteboard [Link
 ](https://excalidraw.com/)
+### Written Resources 
+- Interviewing IO Systems Design [Link](https://interviewing.io/guides/system-design-interview)
+- Reddit: How do you approach Systems Design? [Link](https://www.reddit.com/r/ExperiencedDevs/comments/163q1n1/how_do_you_approach_sys_design_interviews_as_the/)
+
+### Video Resources 
+- Systems Design 10 Key Principles [Link](https://www.youtube.com/watch?v=8dG0qzNAVXI) 
+- Design WhatsApp / Telegram [Link](https://www.youtube.com/watch?v=M6UZ7pVD-rQ)
 
 ## Hands On Guided Projects
 - Build Your Own Lisp [Link
