@@ -4,22 +4,22 @@
 
 
 
-**Frontend Development** 
+## Frontend Development
 - Big Frontend Dev [Site
 ](https://bigfrontend.dev/)
 - Devtools Tech [Site
 ](https://devtools.tech/)
 
-**Systems Design**
+## Systems Design
 - Excalidraw - free browser based whiteboard [Link
 ](https://excalidraw.com/)
 
-**Hands On Guided Projects**
+## Hands On Guided Projects
 - Build Your Own Lisp [Link
 ](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
 
-**Databases**
+## Databases
 - Chroma [Github](https://github.com/chroma-core/chroma)
 
-**Programming Languages** 
+## Programming Languages
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang) 
