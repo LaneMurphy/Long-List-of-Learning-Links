@@ -5,10 +5,12 @@
 
 
 ## Frontend Development
-- Big Frontend Dev [Site
-](https://bigfrontend.dev/)
-- Devtools Tech [Site
-](https://devtools.tech/)
+### Frameworks
+- Angular
+- React[Link](https://react.dev/) - [GitHub](https://github.com/facebook/react)
+### Practice
+- Big Frontend Dev [Site](https://bigfrontend.dev/)
+- Devtools Tech [Site](https://devtools.tech/)
 
 ## Systems Design
 ### Tools 
