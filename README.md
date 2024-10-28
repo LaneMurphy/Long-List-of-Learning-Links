@@ -6,7 +6,7 @@
 
 ## Frontend Development
 ### Frameworks
-- Angular[Link](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
+- Angular [Link](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
 - React [Link](https://react.dev/) - [GitHub](https://github.com/facebook/react)
 ### Practice
 - Big Frontend Dev [Site](https://bigfrontend.dev/)
