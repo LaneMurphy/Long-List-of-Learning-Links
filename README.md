@@ -26,7 +26,7 @@
 - Build Your Own Lisp [Link](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
 
 ## Databases
-- Chroma [Github](https://github.com/chroma-core/chroma)
+- Chroma [Link](https://www.trychroma.com/) - [Github](https://github.com/chroma-core/chroma)
 - PostgreSQL [Link](https://www.postgresql.org/) - [GitHub Mirror](https://github.com/postgres/postgres)
 
 ## Programming Languages
