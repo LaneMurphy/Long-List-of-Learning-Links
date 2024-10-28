@@ -25,7 +25,7 @@
 
 ## Databases
 - Chroma [Github](https://github.com/chroma-core/chroma)
-- PostgreSQL [Link](https://www.postgresql.org/) [GitHub Mirror](https://github.com/postgres/postgres)
+- PostgreSQL [Link](https://www.postgresql.org/) - [GitHub Mirror](https://github.com/postgres/postgres)
 
 ## Programming Languages
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
