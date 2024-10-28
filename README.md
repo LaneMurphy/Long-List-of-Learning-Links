@@ -27,6 +27,7 @@
 
 ## Databases
 - Chroma [Link](https://www.trychroma.com/) - [Github](https://github.com/chroma-core/chroma)
+- MySQL [Link](https://www.mysql.com/) - [GitHub](https://github.com/mysql/mysql-server)
 - PostgreSQL [Link](https://www.postgresql.org/) - [GitHub Mirror](https://github.com/postgres/postgres)
 
 ## Programming Languages
