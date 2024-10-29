@@ -27,6 +27,7 @@
 
 ## Databases
 - Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
+- MariaDB [Site](https://mariadb.org/) - [Github](https://github.com/mariadb)
 - MongoDB [Site](https://www.mongodb.com/) - [GitHub](https://github.com/mongodb/mongo)
 - MySQL [Site](https://www.mysql.com/) - [GitHub](https://github.com/mysql/mysql-server)
 - Neo4j [Site](https://neo4j.com/) - [Github](https://github.com/neo4j)
