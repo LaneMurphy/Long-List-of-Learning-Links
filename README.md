@@ -26,7 +26,8 @@
 - Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
 
 ## Databases
-- Chroma [Site](https://www.trychroma.com/) - [Github](https://github.com/chroma-core/chroma)
+- Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
+- MongoDB [Site](https://www.mongodb.com/) - [GitHub](https://github.com/mongodb/mongo)
 - MySQL [Site](https://www.mysql.com/) - [GitHub](https://github.com/mysql/mysql-server)
 - PostgreSQL [Site](https://www.postgresql.org/) - [GitHub](https://github.com/postgres/postgres)
 
