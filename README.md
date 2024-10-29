@@ -36,5 +36,6 @@
 ## Programming Languages
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Python [Site](https://www.python.org/) - [GitHub](https://github.com/python/cpython)
+- Ruby [Site](https://www.ruby-lang.org/en/) - [Github](https://github.com/ruby/ruby)
 - Rust [Site](https://www.rust-lang.org/) - [GitHub](https://github.com/rust-lang/rust)
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
