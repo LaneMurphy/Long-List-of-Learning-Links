@@ -39,3 +39,4 @@
 - Ruby [Site](https://www.ruby-lang.org/en/) - [Github](https://github.com/ruby/ruby)
 - Rust [Site](https://www.rust-lang.org/) - [GitHub](https://github.com/rust-lang/rust)
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
+- TypeScript [https://www.typescriptlang.org/] - [GitHub](https://github.com/microsoft/TypeScript)
