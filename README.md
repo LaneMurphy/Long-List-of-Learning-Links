@@ -56,4 +56,6 @@ List of Turing Award winners and brief highlights of their contributions to Comp
   - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
 - P4 "Programming Protocol-independent Packet Processors" [Site](https://p4.org/) - [GitHub](https://github.com/p4lang)
   - Specifies how data plane / network devices like switches, NICs, Routers, Filters process packets
-- 
+ 
+## Blockchain / Crypto
+- Solana [Site](https://solana.com/) [GitHub](https://github.com/solana-labs/solana)
