@@ -12,6 +12,9 @@ List of companies that are currently / historically significant in creating fron
 
 ## Turing Award Winners 
 List of Turing Award winners and brief highlights of their contributions to Computer Science 
+### Reverse Chronological Recipients 
+
+### Noteworthy Collaborators / Researchers who have not won *YET*
   
 ## Frontend Development
 ### Frameworks
