@@ -43,5 +43,8 @@
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
 - TypeScript [https://www.typescriptlang.org/] - [GitHub](https://github.com/microsoft/TypeScript)
 ### Domain Specific
--  P4 "Programming Protocol-independent Packet Processors" [Site](https://p4.org/) - [GitHub](https://github.com/p4lang)
-  - Specifies how data plane / network devices like switches, NICs, Routers, Filters process packets 
+- Chapel "Cascade High Productivity Language" [Site](https://chapel-lang.org/) - [GitHub](https://github.com/chapel-lang)
+  - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
+- P4 "Programming Protocol-independent Packet Processors" [Site](https://p4.org/) - [GitHub](https://github.com/p4lang)
+  - Specifies how data plane / network devices like switches, NICs, Routers, Filters process packets
+- 
