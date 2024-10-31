@@ -5,6 +5,7 @@
 ## Companies
 List of companies that are currently / historically significant in creating frontier technology or big players in the OpenSource community. Video Documentaries where available
 - Bell Labs [Wikipedia](https://en.wikipedia.org/wiki/Bell_Labs) - [YouTube Documentary](https://www.youtube.com/watch?v=eksTJOmlxbU)
+- General Magic [Wikipedia](https://en.wikipedia.org/wiki/General_Magic) - [Documentary](https://www.generalmagicthemovie.com/)
 - Sun Microsystems [Wikipedia](https://en.wikipedia.org/wiki/Sun_Microsystems) - [YouTube Documentary](https://www.youtube.com/watch?v=EXx9aKsEkyA)
 - The Apache Software Foundation [Site](https://www.apache.org/) - [Wikipedia](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation) - [YouTube Documentary](https://www.youtube.com/watch?v=qkvqJaX4S50)
 
