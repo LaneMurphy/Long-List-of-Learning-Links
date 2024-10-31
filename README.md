@@ -3,6 +3,7 @@
 - Work in progress repository storing links to **FREE** web pages, youtube videos, tutorials, GitHub repos, and general internet sources on topics of all flavors.
 
 ## Companies
+- Bell Labs [Wikipedia](https://en.wikipedia.org/wiki/Bell_Labs) - [YouTube Documentary](https://www.youtube.com/watch?v=eksTJOmlxbU)
 - Sun Microsystems [Wikipedia](https://en.wikipedia.org/wiki/Sun_Microsystems) - [YouTube Documentary](https://www.youtube.com/watch?v=EXx9aKsEkyA)
   
 ## Frontend Development
