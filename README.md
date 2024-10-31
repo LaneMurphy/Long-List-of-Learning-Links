@@ -2,8 +2,9 @@
 
 - Work in progress repository storing links to **FREE** web pages, youtube videos, tutorials, GitHub repos, and general internet sources on topics of all flavors.
 
-
-
+## Companies
+- Sun Microsystems [Wikipedia](https://en.wikipedia.org/wiki/Sun_Microsystems) - [YouTube Documentary](https://www.youtube.com/watch?v=EXx9aKsEkyA)
+  
 ## Frontend Development
 ### Frameworks
 - Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
