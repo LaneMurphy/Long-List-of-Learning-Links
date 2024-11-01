@@ -64,6 +64,11 @@ Key; HFT = Has Free Tier
 - Neo4j [Site](https://neo4j.com/) - [Github](https://github.com/neo4j)
 - PostgreSQL [Site](https://www.postgresql.org/) - [GitHub](https://github.com/postgres/postgres)
 - Zilliz *Also made Milvus* [Site](https://zilliz.com/) - [GitHub](https://github.com/zilliztech/)
+
+## Networking
+- Netty *framework for event driven asynchronous network apps* [Site](https://netty.io/) - [GitHub](https://github.com/netty)
+
+
 ## Programming Languages
 ### General Purpose
 - ALGOL [Wikipedia](https://en.wikipedia.org/wiki/ALGOL)
