@@ -42,6 +42,7 @@ List of Turing Award winners and brief highlights of their contributions to Comp
 - Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
 
 ## Databases
+- Cassandra *Apache* [Site](https://cassandra.apache.org/_/index.html) - [GitHub](https://github.com/apache/cassandra)
 - Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
 - Elasticsearch [Site](https://www.elastic.co/elasticsearch) - [GitHub](https://github.com/elastic/elasticsearch) 
 - MariaDB [Site](https://mariadb.org/) - [Github](https://github.com/mariadb)
