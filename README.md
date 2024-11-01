@@ -9,6 +9,7 @@ List of companies that are currently / historically significant in creating fron
 - DARPA "Defense Advanced Research Projects Agency" [Site](https://www.darpa.mil/)
 - Fairchild Semiconductor [Wikipedia](https://en.wikipedia.org/wiki/Fairchild_Semiconductor)
 - General Magic [Wikipedia](https://en.wikipedia.org/wiki/General_Magic) - [Documentary](https://www.generalmagicthemovie.com/)
+- Netscape [Wikipedia](https://en.wikipedia.org/wiki/Netscape)
 - Red Hat Software [Site](https://www.redhat.com/en) - [Wikipedia](https://en.wikipedia.org/wiki/Red_Hat)
 - Sun Microsystems [Wikipedia](https://en.wikipedia.org/wiki/Sun_Microsystems) - [YouTube Documentary](https://www.youtube.com/watch?v=EXx9aKsEkyA)
 - The Apache Software Foundation [Site](https://www.apache.org/) - [Wikipedia](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation) - [YouTube Documentary](https://www.youtube.com/watch?v=qkvqJaX4S50)
