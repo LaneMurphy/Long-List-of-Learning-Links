@@ -19,6 +19,9 @@ List of Turing Award winners and brief highlights of their contributions to Comp
 - Alan Perlis (1968)
 > "For his influence in the area of advanced computer programming techniques and compiler construction" 
 ### Noteworthy Collaborators / Researchers who have not won *YET*
+
+## Cool Tools 
+- Lantern *VPN / Censorship Circumvention* [Site](https://lantern.io) - [GitHub](https://github.com/getlantern) 
   
 ## Frontend Development
 ### Frameworks
