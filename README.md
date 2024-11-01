@@ -60,7 +60,7 @@ List of Turing Award winners and brief highlights of their contributions to Comp
   - Ruby on Rails [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
 - Rust [Site](https://www.rust-lang.org/) - [GitHub](https://github.com/rust-lang/rust)
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
-- TypeScript [https://www.typescriptlang.org/] - [GitHub](https://github.com/microsoft/TypeScript)
+- TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
 ### Domain Specific
 - Chapel "Cascade High Productivity Language" [Site](https://chapel-lang.org/) - [GitHub](https://github.com/chapel-lang)
   - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
