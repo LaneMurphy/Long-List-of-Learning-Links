@@ -9,6 +9,7 @@ List of companies that are currently / historically significant in creating fron
 - DARPA "Defense Advanced Research Projects Agency" [Site](https://www.darpa.mil/)
 - Fairchild Semiconductor [Wikipedia](https://en.wikipedia.org/wiki/Fairchild_Semiconductor)
 - General Magic [Wikipedia](https://en.wikipedia.org/wiki/General_Magic) - [Documentary](https://www.generalmagicthemovie.com/)
+- Red Hat Software
 - Sun Microsystems [Wikipedia](https://en.wikipedia.org/wiki/Sun_Microsystems) - [YouTube Documentary](https://www.youtube.com/watch?v=EXx9aKsEkyA)
 - The Apache Software Foundation [Site](https://www.apache.org/) - [Wikipedia](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation) - [YouTube Documentary](https://www.youtube.com/watch?v=qkvqJaX4S50)
 
@@ -72,6 +73,11 @@ List of Turing Award winners and brief highlights of their contributions to Comp
   - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
 - P4 "Programming Protocol-independent Packet Processors" [Site](https://p4.org/) - [GitHub](https://github.com/p4lang)
   - Specifies how data plane / network devices like switches, NICs, Routers, Filters process packets
- 
+
+## DevOps
+- Ansible
+- 
+- Kubernetes [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
+  
 ## Blockchain / Crypto
 - Solana [Site](https://solana.com/) [GitHub](https://github.com/solana-labs/solana)
