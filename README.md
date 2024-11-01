@@ -16,7 +16,8 @@ List of companies that are currently / historically significant in creating fron
 List of Turing Award winners and brief highlights of their contributions to Computer Science 
 ### Reverse Chronological Recipients 
 - 
-- Alan Perlis (1968) > "For his influence in the area of advanced computer programming techniques and compiler construction" 
+- Alan Perlis (1968)
+> "For his influence in the area of advanced computer programming techniques and compiler construction" 
 ### Noteworthy Collaborators / Researchers who have not won *YET*
   
 ## Frontend Development
@@ -50,6 +51,7 @@ List of Turing Award winners and brief highlights of their contributions to Comp
 
 ## Programming Languages
 ### General Purpose
+- ALGOL [Wikipedia](https://en.wikipedia.org/wiki/ALGOL)
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Python [Site](https://www.python.org/) - [GitHub](https://github.com/python/cpython)
 - Ruby [Site](https://www.ruby-lang.org/en/) - [Github](https://github.com/ruby/ruby)
