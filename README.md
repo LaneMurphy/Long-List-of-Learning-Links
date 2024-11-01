@@ -16,7 +16,7 @@ List of companies that are currently / historically significant in creating fron
 List of Turing Award winners and brief highlights of their contributions to Computer Science 
 ### Reverse Chronological Recipients 
 - 
-- Alan Perlis (1968)
+- [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis) (1968)
 > "For his influence in the area of advanced computer programming techniques and compiler construction" 
 ### Noteworthy Collaborators / Researchers who have not won *YET*
 
