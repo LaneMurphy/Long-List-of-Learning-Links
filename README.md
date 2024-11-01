@@ -48,6 +48,7 @@ List of Turing Award winners and brief highlights of their contributions to Comp
 - Cassandra *Apache* [Site](https://cassandra.apache.org/_/index.html) - [GitHub](https://github.com/apache/cassandra)
 - Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
 - Elasticsearch [Site](https://www.elastic.co/elasticsearch) - [GitHub](https://github.com/elastic/elasticsearch) 
+- Lantern *Postgres + vector* [Site](https://lantern.dev/) - [GitHub](https://github.com/lanterndata/lantern)
 - MariaDB [Site](https://mariadb.org/) - [GitHub](https://github.com/mariadb)
 - Marqo [Site](https://www.marqo.ai/) - [GitHub](https://github.com/marqo-ai/marqo)
 - MongoDB [Site](https://www.mongodb.com/) - [GitHub](https://github.com/mongodb/mongo)
