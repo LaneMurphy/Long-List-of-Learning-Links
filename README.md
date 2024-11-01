@@ -43,6 +43,7 @@ List of Turing Award winners and brief highlights of their contributions to Comp
 
 ## Databases
 - Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
+- Elasticsearch [Site](https://www.elastic.co/elasticsearch) - [GitHub](https://github.com/elastic/elasticsearch) 
 - MariaDB [Site](https://mariadb.org/) - [Github](https://github.com/mariadb)
 - MongoDB [Site](https://www.mongodb.com/) - [GitHub](https://github.com/mongodb/mongo)
 - MySQL [Site](https://www.mysql.com/) - [GitHub](https://github.com/mysql/mysql-server)
