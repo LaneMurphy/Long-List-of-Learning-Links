@@ -15,12 +15,15 @@ List of companies that are currently / historically significant in creating fron
 
 ## Turing Award Winners 
 List of Turing Award winners and brief highlights of their contributions to Computer Science 
+Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 ### Reverse Chronological Recipients 
-- 
-- [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis) (1968)
+- Marvin Minsky (1969)
+- Richard Hamming (1968)
+- Maurice Wilks (1967)
+- [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis) (1966)
 > "For his influence in the area of advanced computer programming techniques and compiler construction" 
-### Noteworthy Collaborators / Researchers who have not won *YET*
-
+### Noteworthy Researchers who have not won *YET*
+- 
 ## Cool Tools 
 - Lantern *VPN / Censorship Circumvention* [Site](https://lantern.io) - [GitHub](https://github.com/getlantern) 
   
