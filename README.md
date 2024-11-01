@@ -51,6 +51,7 @@ List of Turing Award winners and brief highlights of their contributions to Comp
 - Lantern *Postgres + vector* [Site](https://lantern.dev/) - [GitHub](https://github.com/lanterndata/lantern)
 - MariaDB [Site](https://mariadb.org/) - [GitHub](https://github.com/mariadb)
 - Marqo [Site](https://www.marqo.ai/) - [GitHub](https://github.com/marqo-ai/marqo)
+- Milvus [Site](https://milvus.io/) - [GitHub](https://github.com/milvus-io/milvus)
 - MongoDB [Site](https://www.mongodb.com/) - [GitHub](https://github.com/mongodb/mongo)
 - MySQL [Site](https://www.mysql.com/) - [GitHub](https://github.com/mysql/mysql-server)
 - Neo4j [Site](https://neo4j.com/) - [Github](https://github.com/neo4j)
