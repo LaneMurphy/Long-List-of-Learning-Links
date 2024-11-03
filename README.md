@@ -55,6 +55,7 @@ Key; HFT = Has Free Tier
 - Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
 - Elasticsearch [Site](https://www.elastic.co/elasticsearch) - [GitHub](https://github.com/elastic/elasticsearch) 
 - Fauna *Document, Transactional, Distribute* **HFT** [Site](https://fauna.com/) - [GitHub](https://github.com/fauna)
+- kdb+ *Time Series - FAST used in high frequency trading* **HFT** [Site](https://kx.com/products/kdb/) - [GitHub](https://github.com/KxSystems)
 - Lantern *Postgres + vector* [Site](https://lantern.dev/) - [GitHub](https://github.com/lanterndata/lantern)
 - MariaDB [Site](https://mariadb.org/) - [GitHub](https://github.com/mariadb)
 - Marqo [Site](https://www.marqo.ai/) - [GitHub](https://github.com/marqo-ai/marqo)
