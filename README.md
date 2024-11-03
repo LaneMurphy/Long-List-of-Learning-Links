@@ -94,6 +94,8 @@ Key; HFT = Has Free Tier
 ### Frameworks / Libraries 
 - Django *Python Server Side Web Dev Framework*
   - Django Rest Framework (DRF) *Django specific framework for building RESTful Web Services*
+- React *UI Library for Web + Native* [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
+  - Next.js *Framework enabling Server Side Rendering for React Web Apps* [Site](https://nextjs.org/) [GitHub](https://github.com/vercel/next.js)
 - Ruby on Rails *Ruby Server Side Web Dev Framework* [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
 
 ## DevOps
