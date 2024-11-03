@@ -27,7 +27,11 @@ Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 - 
 ## Cool Tools 
 - Lantern *VPN / Censorship Circumvention* [Site](https://lantern.io) - [GitHub](https://github.com/getlantern) 
-  
+
+## Operating Systems 
+Will likely turn into a ton of different flavors of Linux as I organize 
+- Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/) 
+ 
 ## Frontend Development
 ### Frameworks
 - Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
