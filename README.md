@@ -81,7 +81,6 @@ Key; HFT = Has Free Tier
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Python [Site](https://www.python.org/) - [GitHub](https://github.com/python/cpython)
 - Ruby [Site](https://www.ruby-lang.org/en/) - [Github](https://github.com/ruby/ruby)
-  - Ruby on Rails [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
 - Rust [Site](https://www.rust-lang.org/) - [GitHub](https://github.com/rust-lang/rust)
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
@@ -90,6 +89,10 @@ Key; HFT = Has Free Tier
   - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
 - P4 "Programming Protocol-independent Packet Processors" [Site](https://p4.org/) - [GitHub](https://github.com/p4lang)
   - Specifies how data plane / network devices like switches, NICs, Routers, Filters process packets
+
+## Developer Tools 
+### Frameworks / Libraries 
+-  Ruby on Rails *Ruby Server Side Web Dev Framework* [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
 
 ## DevOps
 - Ansible
