@@ -62,6 +62,7 @@ Key; HFT = Has Free Tier
 - MongoDB [Site](https://www.mongodb.com/) - [GitHub](https://github.com/mongodb/mongo)
 - MySQL [Site](https://www.mysql.com/) - [GitHub](https://github.com/mysql/mysql-server)
 - Neo4j [Site](https://neo4j.com/) - [Github](https://github.com/neo4j)
+- OpenSearch *Search Engine* [Site](https://www.opensearch.org/) - [GitHub](https://github.com/opensearch-project/opensearch)
 - PostgreSQL [Site](https://www.postgresql.org/) - [GitHub](https://github.com/postgres/postgres)
 - Zilliz *Also made Milvus* [Site](https://zilliz.com/) - [GitHub](https://github.com/zilliztech/)
 
