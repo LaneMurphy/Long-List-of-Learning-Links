@@ -53,7 +53,7 @@ Will likely turn into a ton of different flavors of Linux as I organize
 ## Hands On Guided Projects
 - Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
 
-## Databases
+## Databases / Data Tooling
 Key; HFT = Has Free Tier
 - Cassandra *Apache* [Site](https://cassandra.apache.org/_/index.html) - [GitHub](https://github.com/apache/cassandra)
 - Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
