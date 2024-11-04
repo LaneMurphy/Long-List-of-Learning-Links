@@ -21,6 +21,8 @@ Award Recepients, Major Open Source Contributors, Historical Figures, etc
 
 ### Reverse Chronological Recipients of The Turing Award
 Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+- John McCarthy (1971)
+- James Wilkinson (1970)
 - Marvin Minsky (1969)
 - Richard Hamming (1968)
 - [Maurice Wilks](https://en.wikipedia.org/wiki/Maurice_Wilkes) (1967)
