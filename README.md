@@ -45,16 +45,27 @@ Will likely turn into a ton of different flavors of Linux as I organize
 - Big Frontend Dev [Site](https://bigfrontend.dev/)
 - Devtools Tech [Site](https://devtools.tech/)
 
-## Systems Design
-### Tools 
+## Technical Interviewing
+### Systems Design
+#### Tools 
 - Excalidraw - free browser based whiteboard [Site](https://excalidraw.com/)
-### Written Resources 
+#### Written Resources 
 - Interviewing IO Systems Design [Site](https://interviewing.io/guides/system-design-interview)
 - Reddit: How do you approach Systems Design? [Reddit](https://www.reddit.com/r/ExperiencedDevs/comments/163q1n1/how_do_you_approach_sys_design_interviews_as_the/)
-### Video Resources 
+#### Video Resources 
 - Systems Design 10 Key Principles [YouTube](https://www.youtube.com/watch?v=8dG0qzNAVXI) 
 - Design WhatsApp / Telegram [YouTube](https://www.youtube.com/watch?v=M6UZ7pVD-rQ)
-
+- Design Spotify [YouTube](https://www.youtube.com/watch?v=_K-eupuDVEc)
+### Data Structures & Algorithms 
+#### Tools 
+- Leetcode [Site](https://leetcode.com/)
+- HackerRank [Site](https://www.hackerrank.com/)
+- Exercism [Site](https://exercism.org/)
+#### Written Resources 
+- here
+#### Video Resources
+- Jane Street Mock Interview[YouTube](https://www.youtube.com/watch?v=V8DGdPkBBxg)
+- 
 ## Hands On Guided Projects
 - Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
 
