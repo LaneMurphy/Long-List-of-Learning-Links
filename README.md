@@ -58,7 +58,7 @@ Will likely turn into a ton of different flavors of Linux as I organize
 - Design Spotify [YouTube](https://www.youtube.com/watch?v=_K-eupuDVEc)
 ### Data Structures & Algorithms 
 #### Practice / Tools
--GeeksforGeeks[Site](https://www.geeksforgeeks.org/)
+- GeeksforGeeks [Site](https://www.geeksforgeeks.org/)
 - Leetcode [Site](https://leetcode.com/)
   - LeetHub *Chrome Extension to publish LeetCode solutions to GitHub* [GitHub](https://github.com/QasimWani/LeetHub)
 - HackerRank [Site](https://www.hackerrank.com/)
@@ -66,7 +66,7 @@ Will likely turn into a ton of different flavors of Linux as I organize
 #### Written Resources 
 - here
 #### Video Resources
-- Jane Street Mock Interview[YouTube](https://www.youtube.com/watch?v=V8DGdPkBBxg)
+- Jane Street Mock Interview [YouTube](https://www.youtube.com/watch?v=V8DGdPkBBxg)
 - 
 ## Hands On Guided Projects
 - Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
