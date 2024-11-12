@@ -130,3 +130,7 @@ Key; HFT = Has Free Tier
 
 ## Game Engines 
 - Godot *Multi-Platform 2D & 3D Game Engine* [Site](https://godotengine.org/) - [GitHub](https://github.com/godotengine/godot)
+
+## AI/ML
+- LangChain
+- LLaMA
