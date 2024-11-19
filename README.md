@@ -45,6 +45,7 @@ List of companies that are currently / historically significant in creating fron
 - Netscape [Wikipedia](https://en.wikipedia.org/wiki/Netscape)
 - Red Hat Software [Site](https://www.redhat.com/en) - [Wikipedia](https://en.wikipedia.org/wiki/Red_Hat)
 - Sun Microsystems [Wikipedia](https://en.wikipedia.org/wiki/Sun_Microsystems) - [YouTube Documentary](https://www.youtube.com/watch?v=EXx9aKsEkyA)
+- Texas Instruments [Wikipedia](https://en.wikipedia.org/wiki/Texas_Instruments)
 - The Apache Software Foundation [Site](https://www.apache.org/) - [Wikipedia](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation) - [YouTube Documentary](https://www.youtube.com/watch?v=qkvqJaX4S50)
 
 ## Computing Gamechangers
