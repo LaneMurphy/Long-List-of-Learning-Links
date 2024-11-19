@@ -3,8 +3,9 @@
 - Work in progress repository storing links to **FREE** web pages, youtube videos, tutorials, GitHub repos, and general internet sources on topics of all flavors.
 
 Online IDE: Code Sandbox [Site](https://codesandbox.io/)
-
 Interview Sandbox - [Site](https://interviewsandbox.com/)
+
+
 
 ## Technical Interviewing
 ### Systems Design
@@ -34,10 +35,11 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 - Devtools Tech [Site](https://devtools.tech/)
 
 ## Organizations
-List of companies that are currently / historically significant in creating frontier technology or big players in the OpenSource community. Video Documentaries where available
+List of companies that are currently / historically significant in creating frontier technology. 
 - Association for Computing Machinery "ACM" [Site](https://www.acm.org/) - [Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
 - Bell Labs [Wikipedia](https://en.wikipedia.org/wiki/Bell_Labs) - [YouTube Documentary](https://www.youtube.com/watch?v=eksTJOmlxbU)
 - DARPA "Defense Advanced Research Projects Agency" [Site](https://www.darpa.mil/)
+- Digital Equipment Corporation [Wikipedia](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) [25th Anniversary - Personal Challenge]((https://www.youtube.com/watch?v=YKbnbvF_2Ew))
 - Fairchild Semiconductor [Wikipedia](https://en.wikipedia.org/wiki/Fairchild_Semiconductor)
 - General Magic [Wikipedia](https://en.wikipedia.org/wiki/General_Magic) - [Documentary](https://www.generalmagicthemovie.com/)
 - Netscape [Wikipedia](https://en.wikipedia.org/wiki/Netscape)
