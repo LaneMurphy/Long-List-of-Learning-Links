@@ -50,10 +50,11 @@ List of companies that are currently / historically significant in creating fron
 
 ## Computing Gamechangers
 Award Recepients, Major Open Source Contributors, Historical Figures, etc 
+- Andrew Ng
 - Linus Torvalds
 - Erdos
 
-### Reverse Chronological Recipients of The Turing Award
+### Recipients of The Turing Award
 Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 - John McCarthy (1971)
 - James Wilkinson (1970)
