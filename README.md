@@ -154,7 +154,7 @@ Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 - Marvin Minsky (1969)
 - Richard Hamming (1968)
 - [Maurice Wilks](https://en.wikipedia.org/wiki/Maurice_Wilkes) (1967)
-> "Built the EDSAC; one of the 1st stored program computers and invented microprogramming 
+  > "Built the EDSAC; one of the 1st stored program computers and invented microprogramming 
 - [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis) (1966)
-> "For his influence in the area of advanced computer programming techniques and compiler construction" 
+  > "For his influence in the area of advanced computer programming techniques and compiler construction" 
 
