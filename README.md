@@ -33,13 +33,6 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 #### Practice
 - Big Frontend Dev [Site](https://bigfrontend.dev/)
 - Devtools Tech [Site](https://devtools.tech/)
-
-## Cool Tools 
-- Lantern *VPN / Censorship Circumvention* [Site](https://lantern.io) - [GitHub](https://github.com/getlantern) 
-
-## Operating Systems 
-Will likely turn into a ton of different flavors of Linux as I organize 
-- Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/) 
  
 ## Frontend Development
 ### Frameworks
@@ -106,6 +99,13 @@ Key; HFT = Has Free Tier
 ## Blockchain / Crypto
 - Solana [Site](https://solana.com/) - [GitHub](https://github.com/solana-labs/solana)
 
+## Cool Tools 
+- Lantern *VPN / Censorship Circumvention* [Site](https://lantern.io) - [GitHub](https://github.com/getlantern) 
+
+## Operating Systems 
+Will likely turn into a ton of different flavors of Linux as I organize 
+- Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
+  
 ## Organizations
 List of companies that are currently / historically significant in creating frontier technology. 
 - Association for Computing Machinery "ACM" [Site](https://www.acm.org/) - [Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
