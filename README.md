@@ -34,47 +34,6 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 - Big Frontend Dev [Site](https://bigfrontend.dev/)
 - Devtools Tech [Site](https://devtools.tech/)
 
-## Organizations
-List of companies that are currently / historically significant in creating frontier technology. 
-- Association for Computing Machinery "ACM" [Site](https://www.acm.org/) - [Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
-- Bell Labs [Wikipedia](https://en.wikipedia.org/wiki/Bell_Labs) - [YouTube Documentary](https://www.youtube.com/watch?v=eksTJOmlxbU)
-- DARPA "Defense Advanced Research Projects Agency" [Site](https://www.darpa.mil/)
-- Digital Equipment Corporation [Wikipedia](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) [25th Anniversary - Personal Challenge]((https://www.youtube.com/watch?v=YKbnbvF_2Ew))
-- Fairchild Semiconductor [Wikipedia](https://en.wikipedia.org/wiki/Fairchild_Semiconductor)
-- General Magic [Wikipedia](https://en.wikipedia.org/wiki/General_Magic) - [Documentary](https://www.generalmagicthemovie.com/)
-- Netscape [Wikipedia](https://en.wikipedia.org/wiki/Netscape)
-- Red Hat Software [Site](https://www.redhat.com/en) - [Wikipedia](https://en.wikipedia.org/wiki/Red_Hat)
-- Sun Microsystems [Wikipedia](https://en.wikipedia.org/wiki/Sun_Microsystems) - [YouTube Documentary](https://www.youtube.com/watch?v=EXx9aKsEkyA)
-- Texas Instruments [Wikipedia](https://en.wikipedia.org/wiki/Texas_Instruments)
-- The Apache Software Foundation [Site](https://www.apache.org/) - [Wikipedia](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation) - [YouTube Documentary](https://www.youtube.com/watch?v=qkvqJaX4S50)
-
-## Computing Gamechangers
-Award Recepients, Major Open Source Contributors, Historical Figures, etc 
-- Andrew Ng
-- Linus Torvalds
-- Erdos
-
-### Recipients of The Turing Award
-Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
-- Edgar F Codd (1981)
-- Tony Hoare (1980)
-- Kenneth E Iverson (1979)
-- Robert W Floyd (1978)
-- John Backus (1977)
-- Michael O Rabin + Dana Scott (1976)
-- Allen Newell + Herbert A Simon (1975)
-- Donald Knuth (1974)
-- Charles Bachman (1973)
-- Edsger W Dijkstra (1972) 
-- John McCarthy (1971)
-- James H Wilkinson (1970)
-- Marvin Minsky (1969)
-- Richard Hamming (1968)
-- [Maurice Wilks](https://en.wikipedia.org/wiki/Maurice_Wilkes) (1967)
-> "Built the EDSAC; one of the 1st stored program computers and invented microprogramming 
-- [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis) (1966)
-> "For his influence in the area of advanced computer programming techniques and compiler construction" 
-
 ## Cool Tools 
 - Lantern *VPN / Censorship Circumvention* [Site](https://lantern.io) - [GitHub](https://github.com/getlantern) 
 
@@ -147,6 +106,46 @@ Key; HFT = Has Free Tier
 ## Blockchain / Crypto
 - Solana [Site](https://solana.com/) - [GitHub](https://github.com/solana-labs/solana)
 
+## Organizations
+List of companies that are currently / historically significant in creating frontier technology. 
+- Association for Computing Machinery "ACM" [Site](https://www.acm.org/) - [Wikipedia](https://en.wikipedia.org/wiki/Association_for_Computing_Machinery)
+- Bell Labs [Wikipedia](https://en.wikipedia.org/wiki/Bell_Labs) - [YouTube Documentary](https://www.youtube.com/watch?v=eksTJOmlxbU)
+- DARPA "Defense Advanced Research Projects Agency" [Site](https://www.darpa.mil/)
+- Digital Equipment Corporation [Wikipedia](https://en.wikipedia.org/wiki/Digital_Equipment_Corporation) [25th Anniversary - Personal Challenge]((https://www.youtube.com/watch?v=YKbnbvF_2Ew))
+- Fairchild Semiconductor [Wikipedia](https://en.wikipedia.org/wiki/Fairchild_Semiconductor)
+- General Magic [Wikipedia](https://en.wikipedia.org/wiki/General_Magic) - [Documentary](https://www.generalmagicthemovie.com/)
+- Netscape [Wikipedia](https://en.wikipedia.org/wiki/Netscape)
+- Red Hat Software [Site](https://www.redhat.com/en) - [Wikipedia](https://en.wikipedia.org/wiki/Red_Hat)
+- Sun Microsystems [Wikipedia](https://en.wikipedia.org/wiki/Sun_Microsystems) - [YouTube Documentary](https://www.youtube.com/watch?v=EXx9aKsEkyA)
+- Texas Instruments [Wikipedia](https://en.wikipedia.org/wiki/Texas_Instruments)
+- The Apache Software Foundation [Site](https://www.apache.org/) - [Wikipedia](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation) - [YouTube Documentary](https://www.youtube.com/watch?v=qkvqJaX4S50)
+
+## Computing Gamechangers
+Award Recepients, Major Open Source Contributors, Historical Figures, etc 
+- Andrew Ng
+- Linus Torvalds
+- Erdos
+
+### Recipients of The Turing Award
+Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+- Edgar F Codd (1981)
+- Tony Hoare (1980)
+- Kenneth E Iverson (1979)
+- Robert W Floyd (1978)
+- John Backus (1977)
+- Michael O Rabin + Dana Scott (1976)
+- Allen Newell + Herbert A Simon (1975)
+- Donald Knuth (1974)
+- Charles Bachman (1973)
+- Edsger W Dijkstra (1972) 
+- John McCarthy (1971)
+- James H Wilkinson (1970)
+- Marvin Minsky (1969)
+- Richard Hamming (1968)
+- [Maurice Wilks](https://en.wikipedia.org/wiki/Maurice_Wilkes) (1967)
+> "Built the EDSAC; one of the 1st stored program computers and invented microprogramming 
+- [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis) (1966)
+> "For his influence in the area of advanced computer programming techniques and compiler construction" 
 ## Game Engines 
 - Godot *Multi-Platform 2D & 3D Game Engine* [Site](https://godotengine.org/) - [GitHub](https://github.com/godotengine/godot)
 
