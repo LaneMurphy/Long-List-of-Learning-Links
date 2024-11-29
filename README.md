@@ -38,6 +38,7 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 ### Frameworks
 - Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
 - React [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
+- Vue [Site](https://vuejs.org/) - [GitHub](https://github.com/vuejs/)
 ### Practice
 - Big Frontend Dev [Site](https://bigfrontend.dev/)
 - Devtools Tech [Site](https://devtools.tech/)
