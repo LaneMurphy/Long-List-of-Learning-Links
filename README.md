@@ -106,6 +106,13 @@ Key; HFT = Has Free Tier
 ## Operating Systems 
 Will likely turn into a ton of different flavors of Linux as I organize 
 - Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
+
+## Game Engines 
+- Godot *Multi-Platform 2D & 3D Game Engine* [Site](https://godotengine.org/) - [GitHub](https://github.com/godotengine/godot)
+
+## AI/ML
+- LangChain
+- LLaMA
   
 ## Organizations
 List of companies that are currently / historically significant in creating frontier technology. 
@@ -129,6 +136,9 @@ Award Recepients, Major Open Source Contributors, Historical Figures, etc
 
 ### Recipients of The Turing Award
 Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
+- Ken Thompson + Dennis Ritchie (1983)
+  > "Developed generic operating systems theory and the 1st implementation of UNIX"
+- Stephen Cook (1982)
 - Edgar F Codd (1981)
 - Tony Hoare (1980)
 - Kenneth E Iverson (1979)
@@ -147,9 +157,4 @@ Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
 > "Built the EDSAC; one of the 1st stored program computers and invented microprogramming 
 - [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis) (1966)
 > "For his influence in the area of advanced computer programming techniques and compiler construction" 
-## Game Engines 
-- Godot *Multi-Platform 2D & 3D Game Engine* [Site](https://godotengine.org/) - [GitHub](https://github.com/godotengine/godot)
 
-## AI/ML
-- LangChain
-- LLaMA
