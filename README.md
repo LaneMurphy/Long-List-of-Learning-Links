@@ -130,7 +130,7 @@ List of companies that are currently / historically significant in creating fron
 
 ## Computing Gamechangers
 Award Recepients, Major Open Source Contributors, Historical Figures, etc 
-- Andrew Ng
+- [Andrew Ng](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
 - Linus Torvalds
 - Erdos
 
