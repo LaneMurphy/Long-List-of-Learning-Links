@@ -73,6 +73,7 @@ Key; HFT = Has Free Tier
 ### General Purpose
 - ALGOL [Wikipedia](https://en.wikipedia.org/wiki/ALGOL)
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
+- Java [OSS Site](https://openjdk.org/) - [OSS GitHub](https://github.com/openjdk) - [EE Site *(Oracle)*](https://www.oracle.com/java/)
 - Perl [Site](https://www.perl.org/) - [GitHub](https://github.com/Perl)
 - Python [Site](https://www.python.org/) - [GitHub](https://github.com/python/cpython)
 - Ruby [Site](https://www.ruby-lang.org/en/) - [Github](https://github.com/ruby/ruby)
