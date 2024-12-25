@@ -23,6 +23,7 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 - GeeksforGeeks [Site](https://www.geeksforgeeks.org/)
 - Leetcode [Site](https://leetcode.com/)
   - LeetHub *Chrome Extension to publish LeetCode solutions to GitHub* [GitHub](https://github.com/QasimWani/LeetHub)
+- Deep-ML *leetcode style for ML Algos* [Site](https://www.deep-ml.com)
 - HackerRank [Site](https://www.hackerrank.com/)
 - Exercism [Site](https://exercism.org/)
 #### Written Resources 
