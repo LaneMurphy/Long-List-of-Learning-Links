@@ -79,6 +79,7 @@ Key; HFT = Has Free Tier
 - Python [Site](https://www.python.org/) - [GitHub](https://github.com/python/cpython)
 - Ruby [Site](https://www.ruby-lang.org/en/) - [Github](https://github.com/ruby/ruby)
 - Rust [Site](https://www.rust-lang.org/) - [GitHub](https://github.com/rust-lang/rust)
+  - Co-Founder of Language, [GitHub](https://github.com/brson)
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
 ### Domain Specific
