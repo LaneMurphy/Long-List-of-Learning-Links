@@ -80,18 +80,30 @@ Key; HFT = Has Free Tier
 - CoffeeScript
 - CSS
 - Dart
+- DM
+- Elixir
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
+- Groovy
+- HTML
+- 
 - Java [OSS Site](https://openjdk.org/) - [OSS GitHub](https://github.com/openjdk) - [EE Site *(Oracle)*](https://www.oracle.com/java/)
+- JavaScript
+- Kotlin
 - Mojo [Site](https://docs.modular.com/mojo/why-mojo) - [GitHub](https://github.com/modularml/mojo)
   - Redesign of Python built to take full advantage of MLIR
+- Objective-C
 - P4 "Programming Protocol-independent Packet Processors" [Site](https://p4.org/) - [GitHub](https://github.com/p4lang)
   - Specifies how data plane / network devices like switches, NICs, Routers, Filters process packets
 - Perl [Site](https://www.perl.org/) - [GitHub](https://github.com/Perl)
+- PHP
+- PowerShell
 - Python [Site](https://www.python.org/) - [GitHub](https://github.com/python/cpython)
 - Ruby [Site](https://www.ruby-lang.org/en/) - [Github](https://github.com/ruby/ruby)
 - Rust [Site](https://www.rust-lang.org/) - [GitHub](https://github.com/rust-lang/rust)
   - Co-Founder of Language, [GitHub](https://github.com/brson)
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
+- Shell
+- Swift
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
 
 ## Developer Tools 
