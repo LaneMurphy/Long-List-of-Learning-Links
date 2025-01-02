@@ -73,10 +73,18 @@ Key; HFT = Has Free Tier
 ## Programming Languages
 ### General Purpose
 - ALGOL [Wikipedia](https://en.wikipedia.org/wiki/ALGOL)
+- C
+- C#
+- C++
+- Chapel "Cascade High Productivity Language" [Site](https://chapel-lang.org/) - [GitHub](https://github.com/chapel-lang)
+  - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
+- CoffeeScript
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Java [OSS Site](https://openjdk.org/) - [OSS GitHub](https://github.com/openjdk) - [EE Site *(Oracle)*](https://www.oracle.com/java/)
 - Mojo [Site](https://docs.modular.com/mojo/why-mojo) - [GitHub](https://github.com/modularml/mojo)
   - Redesign of Python built to take full advantage of MLIR
+- P4 "Programming Protocol-independent Packet Processors" [Site](https://p4.org/) - [GitHub](https://github.com/p4lang)
+  - Specifies how data plane / network devices like switches, NICs, Routers, Filters process packets
 - Perl [Site](https://www.perl.org/) - [GitHub](https://github.com/Perl)
 - Python [Site](https://www.python.org/) - [GitHub](https://github.com/python/cpython)
 - Ruby [Site](https://www.ruby-lang.org/en/) - [Github](https://github.com/ruby/ruby)
@@ -84,11 +92,6 @@ Key; HFT = Has Free Tier
   - Co-Founder of Language, [GitHub](https://github.com/brson)
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
-### Domain Specific
-- Chapel "Cascade High Productivity Language" [Site](https://chapel-lang.org/) - [GitHub](https://github.com/chapel-lang)
-  - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
-- P4 "Programming Protocol-independent Packet Processors" [Site](https://p4.org/) - [GitHub](https://github.com/p4lang)
-  - Specifies how data plane / network devices like switches, NICs, Routers, Filters process packets
 
 ## Developer Tools 
 ### Frameworks / Libraries 
