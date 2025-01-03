@@ -80,15 +80,16 @@ Key; HFT = Has Free Tier
 - C++
 - Chapel "Cascade High Productivity Language" [Site](https://chapel-lang.org/) - [GitHub](https://github.com/chapel-lang)
   - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
+- COBOL [Wikipedia](https://en.wikipedia.org/wiki/COBOL)
 - CoffeeScript
 - CSS
 - Dart
 - DM
 - Elixir
+- Fortran [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Groovy
 - HTML
-- 
 - Java [OSS Site](https://openjdk.org/) - [OSS GitHub](https://github.com/openjdk) - [EE Site *(Oracle)*](https://www.oracle.com/java/)
 - JavaScript
 - Kotlin
