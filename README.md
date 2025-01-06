@@ -41,6 +41,7 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 ## Frontend Development
 ### Frameworks
 - Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
+- Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
 - React [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
 - Vue [Site](https://vuejs.org/) - [GitHub](https://github.com/vuejs/)
 ### Practice
