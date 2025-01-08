@@ -118,7 +118,7 @@ Key; HFT = Has Free Tier
 - Django *Python Server Side Web Dev Framework*
   - Django Rest Framework (DRF) *Django specific framework for building RESTful Web Services*
 - Flutter
-- NodeJS [Site](https://nodejs.org/en) - [GitHub](https://github.com/nodejs)
+- NodeJS [Site](https://nodejs.org/en) - [GitHub](https://github.com/nodejs) - [Honeypot Youtube Documentary](https://www.youtube.com/watch?v=LB8KwiiUGy0)
 - React *UI Library for Web + Native* [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
   - Next.js *Framework enabling Server Side Rendering for React Web Apps* [Site](https://nextjs.org/) [GitHub](https://github.com/vercel/next.js)
 - Ruby on Rails *Ruby Server Side Web Dev Framework* [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
