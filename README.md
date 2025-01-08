@@ -112,7 +112,9 @@ Key; HFT = Has Free Tier
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
 
 ## Developer Tools 
-### Frameworks / Libraries 
+### Frameworks / Libraries / Runtimes
+- Deno [Site](https://deno.com/) - [GitHub](https://github.com/denoland/deno)
+  - Ryan Dahl, made NodeJS - a newer more extensive and comprehensive version that includes typescript natively
 - Django *Python Server Side Web Dev Framework*
   - Django Rest Framework (DRF) *Django specific framework for building RESTful Web Services*
 - Flutter
