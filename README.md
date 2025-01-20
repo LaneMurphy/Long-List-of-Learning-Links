@@ -37,16 +37,6 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 #### Practice
 - Big Frontend Dev [Site](https://bigfrontend.dev/)
 - Devtools Tech [Site](https://devtools.tech/)
- 
-## Frontend Development
-### Frameworks
-- Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
-- Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
-- React [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
-- Vue [Site](https://vuejs.org/) - [GitHub](https://github.com/vuejs/)
-### Practice
-- Big Frontend Dev [Site](https://bigfrontend.dev/)
-- Devtools Tech [Site](https://devtools.tech/)
 
 ## Hands On Guided Projects
 - Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
@@ -113,17 +103,20 @@ Key; HFT = Has Free Tier
 
 ## Developer Tools 
 ### Frameworks / Libraries / Runtimes
+- Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
 - Cesium Site - [GitHub](https://github.com/CesiumGS)
 - Deno [Site](https://deno.com/) - [GitHub](https://github.com/denoland/deno)
   - Ryan Dahl, made NodeJS - a newer more extensive and comprehensive version that includes typescript natively
 - Django *Python Server Side Web Dev Framework*
   - Django Rest Framework (DRF) *Django specific framework for building RESTful Web Services*
 - Flutter
+- Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
 - NodeJS [Site](https://nodejs.org/en) - [GitHub](https://github.com/nodejs) - [Honeypot Youtube Documentary](https://www.youtube.com/watch?v=LB8KwiiUGy0)
 - React *UI Library for Web + Native* [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
   - Next.js *Framework enabling Server Side Rendering for React Web Apps* [Site](https://nextjs.org/) [GitHub](https://github.com/vercel/next.js)
 - Ruby on Rails *Ruby Server Side Web Dev Framework* [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
 - Three.js *JavaScript 3D Library* [Site](https://threejs.org/) - [GitHub](https://github.com/mrdoob/three.js)
+- Vue [Site](https://vuejs.org/) - [GitHub](https://github.com/vuejs/)
 
 ## DevOps
 - Ansible
