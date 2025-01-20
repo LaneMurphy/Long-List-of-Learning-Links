@@ -125,6 +125,7 @@ Key; HFT = Has Free Tier
 - Kubernetes [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
   
 ## Blockchain / Crypto
+- Ethereum [Site](https://ethereum.org/en/) - [GitHub](https://github.com/ethereum)
 - Solana [Site](https://solana.com/) - [GitHub](https://github.com/solana-labs/solana)
 
 ## Cool Tools 
