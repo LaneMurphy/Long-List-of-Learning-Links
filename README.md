@@ -113,6 +113,7 @@ Key; HFT = Has Free Tier
 - Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
 - NodeJS [Site](https://nodejs.org/en) - [GitHub](https://github.com/nodejs) - [Honeypot Youtube Documentary](https://www.youtube.com/watch?v=LB8KwiiUGy0)
 - React *UI Library for Web + Native* [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
+  - React Native [Site](https://reactnative.dev/) - [GitHub](https://github.com/facebook/react-native)
   - Next.js *Framework enabling Server Side Rendering for React Web Apps* [Site](https://nextjs.org/) [GitHub](https://github.com/vercel/next.js)
 - Ruby on Rails *Ruby Server Side Web Dev Framework* [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
 - Three.js *JavaScript 3D Library* [Site](https://threejs.org/) - [GitHub](https://github.com/mrdoob/three.js)
