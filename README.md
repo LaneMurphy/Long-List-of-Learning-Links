@@ -121,12 +121,14 @@ Key; HFT = Has Free Tier
 
 ## DevOps/Production/Infra
 - Ansible *infrastructure as code, config mgmt, automation, etc* [Site](https://github.com/ansible) - [GitHub](https://www.ansible.com/)
+- Chef
 - Docker
 - ELK - Elasticsearch, Logstach, Kibana
 - Grafana
 - Kubernetes *container orchestration* [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
 - Nix *functional package manager* [Site](https://nixos.org/) - [GitHub](https://github.com/NixOS)
 - OpenTelemetry
+- Puppet
 - Prometheus
 - Terraform *infrastructure as code, provisioning, automation, etc* [Site](https://www.terraform.io/) - [GitHub](https://github.com/hashicorp/terraform)
   
