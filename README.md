@@ -122,7 +122,7 @@ Key; HFT = Has Free Tier
 ## DevOps/Production/Infra
 - Ansible
 - ELK - Elasticsearch, Logstach, Kibana
-- Kubernetes [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
+- Kubernetes *container orchestration* [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
 - Nix *functional package manager* [Site](https://nixos.org/) - [GitHub](https://github.com/NixOS)
   
 ## Blockchain / Crypto
