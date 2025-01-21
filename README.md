@@ -124,6 +124,7 @@ Key; HFT = Has Free Tier
 - ELK - Elasticsearch, Logstach, Kibana
 - Kubernetes *container orchestration* [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
 - Nix *functional package manager* [Site](https://nixos.org/) - [GitHub](https://github.com/NixOS)
+- Terraform *infrastructure as code* [Site](https://www.terraform.io/) - [GitHub](https://github.com/hashicorp/terraform)
   
 ## Blockchain / Crypto
 - Ethereum [Site](https://ethereum.org/en/) - [GitHub](https://github.com/ethereum)
