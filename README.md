@@ -119,10 +119,11 @@ Key; HFT = Has Free Tier
 - Three.js *JavaScript 3D Library* [Site](https://threejs.org/) - [GitHub](https://github.com/mrdoob/three.js)
 - Vue [Site](https://vuejs.org/) - [GitHub](https://github.com/vuejs/)
 
-## DevOps
+## DevOps/Production/Infra
 - Ansible
 - ELK - Elasticsearch, Logstach, Kibana
 - Kubernetes [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
+- Nix *functional package manager* [Site](https://nixos.org/) - [GitHub](https://github.com/NixOS)
   
 ## Blockchain / Crypto
 - Ethereum [Site](https://ethereum.org/en/) - [GitHub](https://github.com/ethereum)
