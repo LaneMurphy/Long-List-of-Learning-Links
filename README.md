@@ -39,6 +39,7 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 - Devtools Tech [Site](https://devtools.tech/)
 
 ## Hands On Guided Projects
+- Replit Guides [Site](https://replit.com/guides)
 - Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
 
 ## Databases / Data Tooling
@@ -59,10 +60,6 @@ Key; HFT = Has Free Tier
 - PostgreSQL [Site](https://www.postgresql.org/) - [GitHub](https://github.com/postgres/postgres)
   - pgvector *Vector Similarity Search for Postgres* [GitHub](https://github.com/pgvector/pgvector)
 - Zilliz *Also made Milvus* [Site](https://zilliz.com/) - [GitHub](https://github.com/zilliztech/)
-
-## Networking
-- Netty *framework for event driven asynchronous network apps* [Site](https://netty.io/) - [GitHub](https://github.com/netty)
-
 
 ## Programming Languages
 - ALGOL [Wikipedia](https://en.wikipedia.org/wiki/ALGOL)
@@ -131,7 +128,10 @@ Key; HFT = Has Free Tier
 - Puppet
 - Prometheus
 - Terraform *infrastructure as code, provisioning, automation, etc* [Site](https://www.terraform.io/) - [GitHub](https://github.com/hashicorp/terraform)
-  
+
+## Networking
+- Netty *framework for event driven asynchronous network apps* [Site](https://netty.io/) - [GitHub](https://github.com/netty)
+
 ## Blockchain / Crypto
 - Ethereum [Site](https://ethereum.org/en/) - [GitHub](https://github.com/ethereum)
 - Solana [Site](https://solana.com/) - [GitHub](https://github.com/solana-labs/solana)
