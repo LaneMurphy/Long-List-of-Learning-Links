@@ -120,11 +120,11 @@ Key; HFT = Has Free Tier
 - Vue [Site](https://vuejs.org/) - [GitHub](https://github.com/vuejs/)
 
 ## DevOps/Production/Infra
-- Ansible
+- Ansible *infrastructure as code, config mgmt, automation, etc* [Site](https://github.com/ansible) - [GitHub](https://www.ansible.com/)
 - ELK - Elasticsearch, Logstach, Kibana
 - Kubernetes *container orchestration* [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
 - Nix *functional package manager* [Site](https://nixos.org/) - [GitHub](https://github.com/NixOS)
-- Terraform *infrastructure as code* [Site](https://www.terraform.io/) - [GitHub](https://github.com/hashicorp/terraform)
+- Terraform *infrastructure as code, provisioning, automation, etc* [Site](https://www.terraform.io/) - [GitHub](https://github.com/hashicorp/terraform)
   
 ## Blockchain / Crypto
 - Ethereum [Site](https://ethereum.org/en/) - [GitHub](https://github.com/ethereum)
