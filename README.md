@@ -109,11 +109,12 @@ Key; HFT = Has Free Tier
 - Flutter *Toolkit for natively compiled cross-platform apps* [Site](https://flutter.dev/) - [GitHub](https://github.com/flutter)
 - Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
 - NodeJS [Site](https://nodejs.org/en) - [GitHub](https://github.com/nodejs) - [Honeypot Youtube Documentary](https://www.youtube.com/watch?v=LB8KwiiUGy0)
-- PyTorch [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
+- PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - React *UI Library for Web + Native* [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
   - React Native [Site](https://reactnative.dev/) - [GitHub](https://github.com/facebook/react-native)
   - Next.js *Framework enabling Server Side Rendering for React Web Apps* [Site](https://nextjs.org/) [GitHub](https://github.com/vercel/next.js)
 - Ruby on Rails *Ruby Server Side Web Dev Framework* [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
+- TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
 - Three.js *JavaScript 3D Library* [Site](https://threejs.org/) - [GitHub](https://github.com/mrdoob/three.js)
 - Vue [Site](https://vuejs.org/) - [GitHub](https://github.com/vuejs/)
 
