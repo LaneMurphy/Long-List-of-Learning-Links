@@ -134,6 +134,13 @@ Key; HFT = Has Free Tier
 ### Machine Learning / Artifical Intelligence 
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
+- LangChain
+- LLaMA
+- LlamaIndex
+
+  
+### Editors
+- Emacs [Site](https://www.gnu.org/software/emacs/)
   
 ## Networking
 - Netty *framework for event driven asynchronous network apps* [Site](https://netty.io/) - [GitHub](https://github.com/netty)
@@ -153,9 +160,6 @@ Will likely turn into a ton of different flavors of Linux as I organize
 - Godot *Multi-Platform 2D & 3D Game Engine* [Site](https://godotengine.org/) - [GitHub](https://github.com/godotengine/godot)
 - 8th Wall *WebXR and Web Games 3D, no-code* [Site](https://www.8thwall.com/) - [GitHub](https://github.com/8thwall)
 
-## AI/ML
-- LangChain
-- LLaMA
   
 ## Organizations
 List of companies that are currently / historically significant in creating frontier technology. 
