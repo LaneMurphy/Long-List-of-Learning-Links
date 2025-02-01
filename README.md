@@ -9,7 +9,7 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 
 ## Technical Interviewing
 ### Green GitHubs Get Interviews
-- Go into settings and make sure you check "include private repository contributions"
+- Go into settings and make sure you check "include private repository contributions - no one sees the code, they see commits"
 - HM unlikely to start reading your code, but incase pin the repo most noteworthy + include a clear ReadMe on it
 ### Systems Design
 #### Tools 
