@@ -77,6 +77,7 @@ Key; HFT = Has Free Tier
 - Fortran [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Groovy
+- Haskell [Site](https://www.haskell.org/) - [Wikipedia](https://en.wikipedia.org/wiki/Haskell)
 - HTML
 - Java [OSS Site](https://openjdk.org/) - [OSS GitHub](https://github.com/openjdk) - [EE Site *(Oracle)*](https://www.oracle.com/java/)
 - JavaScript
