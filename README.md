@@ -69,7 +69,7 @@ Key; HFT = Has Free Tier
 - Chapel "Cascade High Productivity Language" [Site](https://chapel-lang.org/) - [GitHub](https://github.com/chapel-lang)
   - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
 - COBOL [Wikipedia](https://en.wikipedia.org/wiki/COBOL)
-- CoffeeScript
+- CoffeeScript [Site](https://coffeescript.org/) - [GitHub](https://github.com/jashkenas/coffeescript/)
 - CSS
 - Dart
 - DM
