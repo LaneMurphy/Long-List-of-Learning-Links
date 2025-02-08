@@ -71,7 +71,7 @@ Key; HFT = Has Free Tier
 - COBOL [Wikipedia](https://en.wikipedia.org/wiki/COBOL)
 - CoffeeScript [Site](https://coffeescript.org/) - [GitHub](https://github.com/jashkenas/coffeescript/)
 - CSS
-- Dart
+- Dart *Foundational Language for Flutter, made by Google for cross-platform client side development* [Site](https://dart.dev/) [GitHub](https://github.com/dart-lang)
 - DM
 - Elixir
 - Fortran [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
