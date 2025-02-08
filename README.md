@@ -109,7 +109,7 @@ Key; HFT = Has Free Tier
 - Django *Python Server Side Web Dev Framework*
   - Django Rest Framework (DRF) *Django specific framework for building RESTful Web Services*
 - Flutter *Toolkit for natively compiled cross-platform apps* [Site](https://flutter.dev/) - [GitHub](https://github.com/flutter)
-- Hotwire *Includes Stimulus, Turbo, and Hotwire Native* [Site](https://hotwired.dev/) - [GitHub](https://github.com/hotwired)
+- Hotwire *Includes Stimulus, Turbo, and Hotwire Native - made by the creators of Ruby on Rails* [Site](https://hotwired.dev/) - [GitHub](https://github.com/hotwired)
 - Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
 - NodeJS [Site](https://nodejs.org/en) - [GitHub](https://github.com/nodejs) - [Honeypot Youtube Documentary](https://www.youtube.com/watch?v=LB8KwiiUGy0)
 - React *UI Library for Web + Native* [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
