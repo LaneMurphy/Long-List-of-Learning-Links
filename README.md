@@ -80,7 +80,7 @@ Key; HFT = Has Free Tier
 - Haskell [Site](https://www.haskell.org/) - [Wikipedia](https://en.wikipedia.org/wiki/Haskell)
 - HTML
 - Java [OSS Site](https://openjdk.org/) - [OSS GitHub](https://github.com/openjdk) - [EE Site *(Oracle)*](https://www.oracle.com/java/)
-- JavaScript
+- JavaScript (ECMAScript) [Site](https://ecma-international.org/publications-and-standards/standards/ecma-262/) - [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 - Kotlin
 - Mojo [Site](https://docs.modular.com/mojo/why-mojo) - [GitHub](https://github.com/modularml/mojo)
   - Redesign of Python built to take full advantage of MLIR
