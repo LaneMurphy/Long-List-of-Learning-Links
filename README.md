@@ -109,6 +109,7 @@ Key; HFT = Has Free Tier
   - Ryan Dahl, made NodeJS - a newer more extensive and comprehensive version that includes typescript natively
 - Django *Python Server Side Web Dev Framework*
   - Django Rest Framework (DRF) *Django specific framework for building RESTful Web Services*
+- Downshift js *simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components* [Site](https://www.downshift-js.com/) - [GitHub](https://github.com/downshift-js/downshift)
 - Flutter *Toolkit for natively compiled cross-platform apps* [Site](https://flutter.dev/) - [GitHub](https://github.com/flutter)
 - Hotwire *Includes Stimulus, Turbo, and Hotwire Native - made by the creators of Ruby on Rails* [Site](https://hotwired.dev/) - [GitHub](https://github.com/hotwired)
 - Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
