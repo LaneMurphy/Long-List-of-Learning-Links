@@ -126,17 +126,34 @@ Key; HFT = Has Free Tier
 
 ### DevOps/Production/Infra
 - Ansible *infrastructure as code, config mgmt, automation, etc* [Site](https://github.com/ansible) - [GitHub](https://www.ansible.com/)
+- Argo
 - Chef
+- containerd
+- CoreDNS
 - Docker *Containerization* [Site](https://www.docker.com/) - [GitHub](https://github.com/docker)
 - Envoy
 - ELK - Elasticsearch, Logstach, Kibana
+- etcd
+- Fluentd
+- Flux
 - Grafana
+- Harbor
+- Helm
+- Jaeger
 - Kubernetes *container orchestration* [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
+- Linkerd
 - Nix *functional package manager* [Site](https://nixos.org/) - [GitHub](https://github.com/NixOS)
+- OPA
 - OpenTelemetry
 - Puppet
 - Prometheus
+- Rook
+- SPIFFE
+- SPIRE
 - Terraform *infrastructure as code, provisioning, automation, etc* [Site](https://www.terraform.io/) - [GitHub](https://github.com/hashicorp/terraform)
+- TiKV
+- TUF
+- Vitess
 
 ### Machine Learning / Artifical Intelligence 
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
