@@ -199,33 +199,6 @@ List of companies that are currently / historically significant in creating fron
 - Texas Instruments [Wikipedia](https://en.wikipedia.org/wiki/Texas_Instruments)
 - The Apache Software Foundation [Site](https://www.apache.org/) - [Wikipedia](https://en.wikipedia.org/wiki/The_Apache_Software_Foundation) - [YouTube Documentary](https://www.youtube.com/watch?v=qkvqJaX4S50)
 
-## Computing Gamechangers
-Award Recepients, Major Open Source Contributors, Historical Figures, etc 
-- [Andrew Ng](https://scholar.google.com/citations?hl=en&user=mG4imMEAAAAJ)
-- Linus Torvalds
-- Erdos
 
-### Recipients of The Turing Award
-Named for [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing)
-- Ken Thompson + Dennis Ritchie (1983)
-  > "Developed generic operating systems theory and the 1st implementation of UNIX"
-- Stephen Cook (1982)
-- Edgar F Codd (1981)
-- Tony Hoare (1980)
-- Kenneth E Iverson (1979)
-- Robert W Floyd (1978)
-- John Backus (1977)
-- Michael O Rabin + Dana Scott (1976)
-- Allen Newell + Herbert A Simon (1975)
-- Donald Knuth (1974)
-- Charles Bachman (1973)
-- Edsger W Dijkstra (1972) 
-- John McCarthy (1971)
-- James H Wilkinson (1970)
-- Marvin Minsky (1969)
-- Richard Hamming (1968)
-- [Maurice Wilks](https://en.wikipedia.org/wiki/Maurice_Wilkes) (1967)
-  > "Built the EDSAC; one of the 1st stored program computers and invented microprogramming 
-- [Alan Perlis](https://en.wikipedia.org/wiki/Alan_Perlis) (1966)
-  > "For his influence in the area of advanced computer programming techniques and compiler construction" 
+
 
