@@ -158,8 +158,8 @@ Key; HFT = Has Free Tier
 ### Machine Learning / Artifical Intelligence 
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
+- Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
 - LangChain
-- LLaMA
 - LlamaIndex
 
   
