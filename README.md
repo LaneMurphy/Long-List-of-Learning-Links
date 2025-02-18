@@ -42,7 +42,7 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 - Replit Guides [Site](https://replit.com/guides)
 - Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
 
-## Databases / Data Tooling
+## Databases / Data Tooling / Data Plane
 Key; HFT = Has Free Tier
 - Cassandra *Apache* [Site](https://cassandra.apache.org/_/index.html) - [GitHub](https://github.com/apache/cassandra)
 - Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
