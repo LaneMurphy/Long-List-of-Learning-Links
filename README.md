@@ -44,6 +44,7 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 
 ## Databases / Data Tooling / Data Plane
 Key; HFT = Has Free Tier
+- Airflow *Apache, data workflow scheduling / monitoring* [Site](https://airflow.apache.org/) - [GitHub](https://github.com/apache/airflow)
 - Cassandra *Apache* [Site](https://cassandra.apache.org/_/index.html) - [GitHub](https://github.com/apache/cassandra)
 - Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
 - Elasticsearch [Site](https://www.elastic.co/elasticsearch) - [GitHub](https://github.com/elastic/elasticsearch) 
