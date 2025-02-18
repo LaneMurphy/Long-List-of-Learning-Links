@@ -60,6 +60,7 @@ Key; HFT = Has Free Tier
 - OpenSearch *Search Engine* [Site](https://www.opensearch.org/) - [GitHub](https://github.com/opensearch-project/opensearch)
 - PostgreSQL [Site](https://www.postgresql.org/) - [GitHub](https://github.com/postgres/postgres)
   - pgvector *Vector Similarity Search for Postgres* [GitHub](https://github.com/pgvector/pgvector)
+- Spark *Apache, data analytics engine* [Site](https://spark.apache.org/) - [GitHub](https://github.com/apache/spark)
 - Zilliz *Also made Milvus* [Site](https://zilliz.com/) - [GitHub](https://github.com/zilliztech/)
 
 ## Programming Languages
