@@ -59,6 +59,7 @@ Key; HFT = Has Free Tier
 - MySQL [Site](https://www.mysql.com/) - [GitHub](https://github.com/mysql/mysql-server)
 - Neo4j [Site](https://neo4j.com/) - [Github](https://github.com/neo4j)
 - OpenSearch *Search Engine* [Site](https://www.opensearch.org/) - [GitHub](https://github.com/opensearch-project/opensearch)
+- Pinot *Apache, Realtime ultra low latency OLAP Datastore* [Site](https://pinot.apache.org/) - [GitHub](https://github.com/apache/pinot)
 - PostgreSQL [Site](https://www.postgresql.org/) - [GitHub](https://github.com/postgres/postgres)
   - pgvector *Vector Similarity Search for Postgres* [GitHub](https://github.com/pgvector/pgvector)
 - Spark *Apache, data analytics engine* [Site](https://spark.apache.org/) - [GitHub](https://github.com/apache/spark)
