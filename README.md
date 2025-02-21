@@ -9,8 +9,8 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 
 ## Technical Interviewing
 ### Green GitHubs Get Interviews
-- Go into settings and make sure you check "include private repository contributions - no one sees the code, they see commits"
-- HM unlikely to start reading your code, but incase pin the repo most noteworthy + include a clear ReadMe on it
+- Go into settings and make sure you check "include private repository contributions" - no one sees the code, they see commits
+
 ### Systems Design
 #### Tools 
 - Excalidraw - free browser based whiteboard [Site](https://excalidraw.com/)
