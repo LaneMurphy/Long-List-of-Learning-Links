@@ -104,6 +104,10 @@ Key; HFT = Has Free Tier
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
 
 ## Developer Tools 
+
+### Code Gen
+- Appwrite [Site](https://appwrite.io/) - [GitHub](https://github.com/appwrite/appwrite)
+
 ### Software -> Frameworks / Libraries / Runtimes
 - Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
 - AriaKit *build accessible web apps with React* [Site](https://ariakit.org/) - [GitHub](https://github.com/ariakit/ariakit)
