@@ -47,6 +47,7 @@ Key; HFT = Has Free Tier
 - Airflow *Apache, data workflow scheduling / monitoring* [Site](https://airflow.apache.org/) - [GitHub](https://github.com/apache/airflow)
 - Cassandra *Apache* [Site](https://cassandra.apache.org/_/index.html) - [GitHub](https://github.com/apache/cassandra)
 - Chroma [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
+- Daft *Data Warehouse built for Unstructured / multimodal data formats* [Site](https://www.getdaft.io/) - [GitHub](https://github.com/Eventual-Inc/Daft)
 - Elasticsearch [Site](https://www.elastic.co/elasticsearch) - [GitHub](https://github.com/elastic/elasticsearch) 
 - Fauna *Document, Transactional, Distribute* **HFT** [Site](https://fauna.com/) - [GitHub](https://github.com/fauna)
 - Kafka *Apache, very popular event streaming platform* [Site](https://kafka.apache.org/) - [GitHub](https://github.com/apache/kafka)
