@@ -167,7 +167,7 @@ Key; HFT = Has Free Tier
 ### Machine Learning / Artifical Intelligence 
 - Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
 - LangChain *LLM App building framework + Orchestration* [Site](https://www.langchain.com/) - [GitHub](https://github.com/langchain-ai)
-- LlamaIndex
+- LlamaIndex *Agent Building Framework + Orchestration* [Site](https://www.llamaindex.ai/) - [GitHub](https://github.com/run-llama/llama_index) - [LlamaHub](https://llamahub.ai/)
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
