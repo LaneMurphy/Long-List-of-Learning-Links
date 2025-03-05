@@ -165,6 +165,7 @@ Key; HFT = Has Free Tier
 - Vitess
 
 ### Machine Learning / Artifical Intelligence 
+- Composio *integration platform for agents* [Site](https://composio.dev/) - [GitHub](https://github.com/ComposioHQ/composio)
 - Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
 - LangChain *LLM App building framework + Orchestration* [Site](https://www.langchain.com/) - [GitHub](https://github.com/langchain-ai)
 - LlamaIndex *Agent Building Framework + Orchestration* [Site](https://www.llamaindex.ai/) - [GitHub](https://github.com/run-llama/llama_index) - [LlamaHub](https://llamahub.ai/)
