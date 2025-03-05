@@ -165,12 +165,12 @@ Key; HFT = Has Free Tier
 - Vitess
 
 ### Machine Learning / Artifical Intelligence 
-- PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
-- TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
 - Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
 - LangChain
 - LlamaIndex
-
+- PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
+- Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
+- TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
   
 ### Editors
 - Cursor *AI Code Editor* [Site](https://www.cursor.com/en) - [GitHub](https://github.com/getcursor/cursor)
