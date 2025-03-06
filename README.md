@@ -106,11 +106,10 @@ Key; HFT = Has Free Tier
 
 ## Developer Tools 
 
-### Code Gen
-- Appwrite [Site](https://appwrite.io/) - [GitHub](https://github.com/appwrite/appwrite)
 
 ### Software -> Frameworks / Libraries / Runtimes
 - Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
+- Appwrite *containerized backend for web, mobile, Flutter* [Site](https://appwrite.io/) - [GitHub](https://github.com/appwrite/appwrite)
 - AriaKit *build accessible web apps with React* [Site](https://ariakit.org/) - [GitHub](https://github.com/ariakit/ariakit)
 - Cesium *Platform for 3D Geospatial Development* [Site](https://cesium.com/) - [GitHub](https://github.com/CesiumGS)
 - Chraka UI [Site](https://chakra-ui.com/) - [GitHub](https://github.com/chakra-ui)
