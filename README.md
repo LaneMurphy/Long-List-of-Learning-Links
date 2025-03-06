@@ -72,8 +72,6 @@ Key; HFT = Has Free Tier
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
 
 ## Developer Tools 
-
-
 ### Software -> Frameworks / Libraries / Runtimes
 - Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
 - Appwrite *containerized backend for web, mobile, Flutter* [Site](https://appwrite.io/) - [GitHub](https://github.com/appwrite/appwrite)
@@ -103,8 +101,8 @@ Key; HFT = Has Free Tier
 ### DevOps/Production/Infra
 - Ansible *infrastructure as code, config mgmt, automation, etc* [Site](https://github.com/ansible) - [GitHub](https://www.ansible.com/)
 - Argo
-- Chef
-- containerd
+- Chef *infrastructure as code* [Site](https://www.chef.io/) - [GitHub](https://github.com/chef)
+- containerd *container runtime* [Site](https://containerd.io/) - [GitHub](https://github.com/containerd)
 - CoreDNS
 - Docker *Containerization* [Site](https://www.docker.com/) - [GitHub](https://github.com/docker)
 - Envoy
