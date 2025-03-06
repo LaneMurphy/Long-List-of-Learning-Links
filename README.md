@@ -5,39 +5,6 @@
 Online IDE: Code Sandbox [Site](https://codesandbox.io/)
 Interview Sandbox - [Site](https://interviewsandbox.com/)
 
-
-
-## Technical Interviewing
-### Green GitHubs Get Interviews
-- Go into settings and make sure you check "include private repository contributions" - no one sees the code, they see commits
-
-### Systems Design
-#### Tools 
-- Excalidraw - free browser based whiteboard [Site](https://excalidraw.com/)
-#### Written Resources 
-- Interviewing IO Systems Design [Site](https://interviewing.io/guides/system-design-interview)
-- Reddit: How do you approach Systems Design? [Reddit](https://www.reddit.com/r/ExperiencedDevs/comments/163q1n1/how_do_you_approach_sys_design_interviews_as_the/)
-#### Video Resources 
-- Systems Design 10 Key Principles [YouTube](https://www.youtube.com/watch?v=8dG0qzNAVXI) 
-- Design WhatsApp / Telegram [YouTube](https://www.youtube.com/watch?v=M6UZ7pVD-rQ)
-- Design Spotify [YouTube](https://www.youtube.com/watch?v=_K-eupuDVEc)
-### Data Structures & Algorithms 
-#### Practice / Tools
-- GeeksforGeeks [Site](https://www.geeksforgeeks.org/)
-- Leetcode [Site](https://leetcode.com/)
-  - LeetHub *Chrome Extension to publish LeetCode solutions to GitHub* [GitHub](https://github.com/QasimWani/LeetHub)
-- Deep-ML *Leetcode style for ML Algos* [Site](https://www.deep-ml.com)
-- HackerRank [Site](https://www.hackerrank.com/)
-- Exercism [Site](https://exercism.org/)
-#### Written Resources 
-- here
-#### Video Resources
-- Jane Street Mock Interview [YouTube](https://www.youtube.com/watch?v=V8DGdPkBBxg)
-### Front End
-#### Practice
-- Big Frontend Dev [Site](https://bigfrontend.dev/)
-- Devtools Tech [Site](https://devtools.tech/)
-
 ## Hands On Guided Projects
 - Replit Guides [Site](https://replit.com/guides)
 - Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
@@ -196,6 +163,36 @@ Key; HFT = Has Free Tier
 - Godot *Multi-Platform 2D & 3D Game Engine* [Site](https://godotengine.org/) - [GitHub](https://github.com/godotengine/godot)
 - 8th Wall *WebXR and Web Games 3D, no-code* [Site](https://www.8thwall.com/) - [GitHub](https://github.com/8thwall)
 
+## Technical Interviewing
+### Green GitHubs Get Interviews
+- Go into settings and make sure you check "include private repository contributions" - no one sees the code, they see commits
+
+### Systems Design
+#### Tools 
+- Excalidraw - free browser based whiteboard [Site](https://excalidraw.com/)
+#### Written Resources 
+- Interviewing IO Systems Design [Site](https://interviewing.io/guides/system-design-interview)
+- Reddit: How do you approach Systems Design? [Reddit](https://www.reddit.com/r/ExperiencedDevs/comments/163q1n1/how_do_you_approach_sys_design_interviews_as_the/)
+#### Video Resources 
+- Systems Design 10 Key Principles [YouTube](https://www.youtube.com/watch?v=8dG0qzNAVXI) 
+- Design WhatsApp / Telegram [YouTube](https://www.youtube.com/watch?v=M6UZ7pVD-rQ)
+- Design Spotify [YouTube](https://www.youtube.com/watch?v=_K-eupuDVEc)
+### Data Structures & Algorithms 
+#### Practice / Tools
+- GeeksforGeeks [Site](https://www.geeksforgeeks.org/)
+- Leetcode [Site](https://leetcode.com/)
+  - LeetHub *Chrome Extension to publish LeetCode solutions to GitHub* [GitHub](https://github.com/QasimWani/LeetHub)
+- Deep-ML *Leetcode style for ML Algos* [Site](https://www.deep-ml.com)
+- HackerRank [Site](https://www.hackerrank.com/)
+- Exercism [Site](https://exercism.org/)
+#### Written Resources 
+- here
+#### Video Resources
+- Jane Street Mock Interview [YouTube](https://www.youtube.com/watch?v=V8DGdPkBBxg)
+### Front End
+#### Practice
+- Big Frontend Dev [Site](https://bigfrontend.dev/)
+- Devtools Tech [Site](https://devtools.tech/)
   
 ## Organizations
 List of companies that are currently / historically significant in creating frontier technology. 
