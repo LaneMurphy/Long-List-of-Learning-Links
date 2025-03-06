@@ -12,6 +12,7 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 ## Databases / Data Tooling / Data Plane
 Key; HFT = Has Free Tier
 - Airflow *Apache, data workflow scheduling / monitoring* [Site](https://airflow.apache.org/) - [GitHub](https://github.com/apache/airflow)
+- Arrow *Apache, columnar analytics engine, language agnostic* [Site](https://arrow.apache.org/) - [GitHub](https://github.com/apache/arrow)
 - Cassandra *Apache* [Site](https://cassandra.apache.org/_/index.html) - [GitHub](https://github.com/apache/cassandra)
 - Chroma *Vector Database* [Site](https://www.trychroma.com/) - [GitHub](https://github.com/chroma-core/chroma)
 - Daft *Data Warehouse built for Unstructured / multimodal data formats* [Site](https://www.getdaft.io/) - [GitHub](https://github.com/Eventual-Inc/Daft)
