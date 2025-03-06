@@ -127,6 +127,7 @@ Key; HFT = Has Free Tier
   - React Native [Site](https://reactnative.dev/) - [GitHub](https://github.com/facebook/react-native)
   - Next.js *Framework enabling Server Side Rendering for React Web Apps* [Site](https://nextjs.org/) [GitHub](https://github.com/vercel/next.js)
 - Ruby on Rails *Ruby Server Side Web Dev Framework* [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
+- Speakeasy *API for SDK, Toolset Generation* [Site](https://www.speakeasy.com/) - [GitHub](https://github.com/speakeasy-api)
 - StorybookJS [Site](https://storybook.js.org/) - [GitHub](https://github.com/storybookjs)
 - TailwindCSS [Site](https://tailwindcss.com/) - [GitHub](https://github.com/tailwindlabs/tailwindcss)
 - Three.js *JavaScript 3D Library* [Site](https://threejs.org/) - [GitHub](https://github.com/mrdoob/three.js)
