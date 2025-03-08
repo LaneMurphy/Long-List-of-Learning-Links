@@ -106,7 +106,7 @@ Key; HFT = Has Free Tier
 
 ### DevOps/Production/Infra
 - Ansible *infrastructure as code, config mgmt, automation, etc* [Site](https://github.com/ansible) - [GitHub](https://www.ansible.com/)
-- Argo
+- Argo *OSS Tools for Kubernetes workflows / Gitops* [Site](https://argoproj.github.io/) - [GitHub](https://github.com/argoproj)
 - Chef *infrastructure as code* [Site](https://www.chef.io/) - [GitHub](https://github.com/chef)
 - containerd *container runtime* [Site](https://containerd.io/) - [GitHub](https://github.com/containerd)
 - CoreDNS
