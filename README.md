@@ -144,6 +144,7 @@ Key; HFT = Has Free Tier
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
   
 ### Editors
+- Cline *AI that can use your CLI and Editor* [Site](https://cline.bot/) - [GitHub](https://github.com/cline)
 - Cursor *AI Code Editor* [Site](https://www.cursor.com/en) - [GitHub](https://github.com/getcursor/cursor)
 - Emacs [Site](https://www.gnu.org/software/emacs/)
 - VSCode [Site](https://code.visualstudio.com/) - [GitHub](https://github.com/microsoft/vscode)
