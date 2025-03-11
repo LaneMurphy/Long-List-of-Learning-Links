@@ -139,6 +139,8 @@ Key; HFT = Has Free Tier
 - Composio *integration platform for agents* [Site](https://composio.dev/) - [GitHub](https://github.com/ComposioHQ/composio)
 - Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
 - LangChain *LLM App building framework + Orchestration* [Site](https://www.langchain.com/) - [GitHub](https://github.com/langchain-ai)
+- LangGraph *Platform for multi-agent systems via graph* [Site](https://www.langchain.com/langgraph) - [GitHub](https://github.com/langchain-ai/langgraph)
+- LangSmith *Monitor, debug, and optimize LangChain/LangGraph apps* [Site](https://docs.smith.langchain.com/) - [GitHub](https://github.com/langchain-ai/langsmith-sdk)
 - LlamaIndex *Agent Building Framework + Orchestration* [Site](https://www.llamaindex.ai/) - [GitHub](https://github.com/run-llama/llama_index) - [LlamaHub](https://llamahub.ai/)
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
