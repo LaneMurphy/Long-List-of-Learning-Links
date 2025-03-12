@@ -94,6 +94,7 @@ Key; HFT = Has Free Tier
 - Hotwire *Includes Stimulus, Turbo, and Hotwire Native - made by the creators of Ruby on Rails* [Site](https://hotwired.dev/) - [GitHub](https://github.com/hotwired)
 - Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
 - NodeJS [Site](https://nodejs.org/en) - [GitHub](https://github.com/nodejs) - [Honeypot Youtube Documentary](https://www.youtube.com/watch?v=LB8KwiiUGy0)
+  - npm (Node Package Manager) - [Site](https://www.npmjs.com/)
 - React *UI Library for Web + Native* [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
   - React Native [Site](https://reactnative.dev/) - [GitHub](https://github.com/facebook/react-native)
   - Next.js *Framework enabling Server Side Rendering for React Web Apps* [Site](https://nextjs.org/) [GitHub](https://github.com/vercel/next.js)
