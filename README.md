@@ -126,7 +126,7 @@ Key; HFT = Has Free Tier
 - Linkerd
 - Nix *functional package manager* [Site](https://nixos.org/) - [GitHub](https://github.com/NixOS)
 - OPA
-- OpenTelemetry
+- OpenTelemetry *observability APIs, SDKs, and tools for metics/logs/traces* [Site](https://opentelemetry.io/) - [GitHub](https://github.com/open-telemetry)
 - Puppet
 - Prometheus
 - Rook
