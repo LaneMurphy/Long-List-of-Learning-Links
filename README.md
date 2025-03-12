@@ -98,6 +98,7 @@ Key; HFT = Has Free Tier
   - React Native [Site](https://reactnative.dev/) - [GitHub](https://github.com/facebook/react-native)
   - Next.js *Framework enabling Server Side Rendering for React Web Apps* [Site](https://nextjs.org/) [GitHub](https://github.com/vercel/next.js)
 - Ruby on Rails *Ruby Server Side Web Dev Framework* [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
+  - See Hotwire above for Fullstack Ruby
 - Speakeasy *API for SDK, Toolset Generation* [Site](https://www.speakeasy.com/) - [GitHub](https://github.com/speakeasy-api)
 - StorybookJS [Site](https://storybook.js.org/) - [GitHub](https://github.com/storybookjs)
 - Streamlit *Turn Python Scripts into Web Apps* [Site](https://streamlit.io/) - [GitHub](https://github.com/streamlit/streamlit)
