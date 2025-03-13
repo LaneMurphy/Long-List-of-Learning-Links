@@ -19,6 +19,7 @@ Key; HFT = Has Free Tier
 - DataFusion *Apache, Extensible Query Engine* [Site](https://datafusion.apache.org/) - [GitHub](https://github.com/apache/datafusion) 
 - Elasticsearch [Site](https://www.elastic.co/elasticsearch) - [GitHub](https://github.com/elastic/elasticsearch) 
 - Fauna *Document, Transactional, Distribute* **HFT** [Site](https://fauna.com/) - [GitHub](https://github.com/fauna)
+- Hudi *Apache, OSS Data Lakehouse Platform* [Site](https://hudi.apache.org/) - [GitHub](https://github.com/apache/hudi)
 - Impala *Apache, low latency C++ distibuted SQL Engine* [Site](https://impala.apache.org/index.html) - [GitHub](https://github.com/apache/impala)
 - Kafka *Apache, very popular event streaming platform* [Site](https://kafka.apache.org/) - [GitHub](https://github.com/apache/kafka)
 - kdb+ *Time Series - FAST used in high frequency trading* **HFT** [Site](https://kx.com/products/kdb/) - [GitHub](https://github.com/KxSystems)
