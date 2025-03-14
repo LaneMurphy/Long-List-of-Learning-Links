@@ -57,7 +57,6 @@ Key; HFT = Has Free Tier
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Groovy
 - Haskell [Site](https://www.haskell.org/) - [Wikipedia](https://en.wikipedia.org/wiki/Haskell)
-- HTML
 - Java [OSS Site](https://openjdk.org/) - [OSS GitHub](https://github.com/openjdk) - [EE Site *(Oracle)*](https://www.oracle.com/java/)
 - JavaScript (ECMAScript) [Site](https://ecma-international.org/publications-and-standards/standards/ecma-262/) - [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 - Kotlin
