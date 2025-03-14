@@ -52,7 +52,7 @@ Key; HFT = Has Free Tier
 - CSS
 - Dart *Foundational Language for Flutter, made by Google for cross-platform client side development* [Site](https://dart.dev/) [GitHub](https://github.com/dart-lang)
 - DM
-- Elixir
+- Elixir - [Site](https://elixir-lang.org/) - [GitHub](https://github.com/elixir-lang/elixir)
 - Fortran [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Groovy
