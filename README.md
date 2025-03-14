@@ -156,7 +156,8 @@ Key; HFT = Has Free Tier
 - Cursor *AI Code Editor* [Site](https://www.cursor.com/en) - [GitHub](https://github.com/getcursor/cursor)
 - Emacs [Site](https://www.gnu.org/software/emacs/)
 - VSCode [Site](https://code.visualstudio.com/) - [GitHub](https://github.com/microsoft/vscode)
-- XCode [Site](https://developer.apple.com/xcode/) 
+- XCode [Site](https://developer.apple.com/xcode/)
+- Zed - [Site](https://zed.dev/) - [GitHub](https://github.com/zed-industries/zed)
   
 ## Networking
 - Netty *framework for event driven asynchronous network apps* [Site](https://netty.io/) - [GitHub](https://github.com/netty)
