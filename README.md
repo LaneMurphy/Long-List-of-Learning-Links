@@ -109,7 +109,6 @@ Key; HFT = Has Free Tier
 
 ### DevOps/Production/Infra/Build/Release
 - Ansible *infrastructure as code, config mgmt, automation, etc* [Site](https://github.com/ansible) - [GitHub](https://www.ansible.com/)
-- Ant *Apache, 
 - Argo *OSS Tools for Kubernetes workflows / Gitops* [Site](https://argoproj.github.io/) - [GitHub](https://github.com/argoproj)
 - Bazel *Build + Release automation* [Site](https://bazel.build/) - [GitHub](https://github.com/bazelbuild/bazel/)
 - Chef *infrastructure as code* [Site](https://www.chef.io/) - [GitHub](https://github.com/chef)
@@ -127,8 +126,6 @@ Key; HFT = Has Free Tier
 - Jaeger
 - Kubernetes *container orchestration* [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
 - Linkerd
-- Make
-- Maven *Apache, 
 - Nix *functional package manager* [Site](https://nixos.org/) - [GitHub](https://github.com/NixOS)
 - OPA
 - OpenTelemetry *observability APIs, SDKs, and tools for metics/logs/traces* [Site](https://opentelemetry.io/) - [GitHub](https://github.com/open-telemetry)
