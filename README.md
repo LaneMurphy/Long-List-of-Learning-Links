@@ -146,6 +146,7 @@ Key; HFT = Has Free Tier
 - LangChain *LLM App building framework + Orchestration* [Site](https://www.langchain.com/) - [GitHub](https://github.com/langchain-ai)
 - LangGraph *Platform for multi-agent systems via graph* [Site](https://www.langchain.com/langgraph) - [GitHub](https://github.com/langchain-ai/langgraph)
 - LangSmith *Monitor, debug, and optimize LangChain/LangGraph apps* [Site](https://docs.smith.langchain.com/) - [GitHub](https://github.com/langchain-ai/langsmith-sdk)
+- Letta *stateful agents framework* [Site](https://docs.letta.com/) - [GitHub](https://github.com/letta-ai/letta)
 - LlamaIndex *Agent Building Framework + Orchestration* [Site](https://www.llamaindex.ai/) - [GitHub](https://github.com/run-llama/llama_index) - [LlamaHub](https://llamahub.ai/)
 - Ollama *Run and experiment with Open Source Models locally* [Site](https://ollama.com/) - [GitHub](https://github.com/ollama)
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
