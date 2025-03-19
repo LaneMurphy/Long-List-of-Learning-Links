@@ -134,6 +134,7 @@ Key; HFT = Has Free Tier
 - Rook
 - SPIFFE
 - SPIRE
+- SST *IaC for AWS Configuration* [Site](https://sst.dev/) - [GitHub](https://github.com/sst/sst)
 - Terraform *infrastructure as code, provisioning, automation, etc* [Site](https://www.terraform.io/) - [GitHub](https://github.com/hashicorp/terraform)
 - TiKV
 - TUF
