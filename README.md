@@ -154,10 +154,12 @@ Key; HFT = Has Free Tier
 - Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
   
-### Editors
+### Editors / Environments 
 - Cline *AI that can use your CLI and Editor* [Site](https://cline.bot/) - [GitHub](https://github.com/cline)
 - Cursor *AI Code Editor* [Site](https://www.cursor.com/en) - [GitHub](https://github.com/getcursor/cursor)
 - Emacs [Site](https://www.gnu.org/software/emacs/)
+- JetBrains *includes several like IntelliJ, WebStorm, PyCharm* [Site](https://www.jetbrains.com/)
+- Replit [Site](https://replit.com/)
 - VSCode [Site](https://code.visualstudio.com/) - [GitHub](https://github.com/microsoft/vscode)
 - XCode [Site](https://developer.apple.com/xcode/)
 - Zed - [Site](https://zed.dev/) - [GitHub](https://github.com/zed-industries/zed)
