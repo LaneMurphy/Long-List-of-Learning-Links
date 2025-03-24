@@ -128,6 +128,7 @@ Key; HFT = Has Free Tier
 - Kubernetes *container orchestration* [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
 - Linkerd
 - Nix *functional package manager* [Site](https://nixos.org/) - [GitHub](https://github.com/NixOS)
+- New Relic [Site](https://newrelic.com/) - [GitHub](https://github.com/newrelic)
 - OPA
 - OpenTelemetry *observability APIs, SDKs, and tools for metics/logs/traces* [Site](https://opentelemetry.io/) - [GitHub](https://github.com/open-telemetry)
 - Puppet
