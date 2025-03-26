@@ -143,6 +143,7 @@ Key; HFT = Has Free Tier
 - Vitess
 
 ### Machine Learning / Artifical Intelligence 
+- braintrust *platform for building AI apps* [Site](https://www.braintrust.dev/) - [GitHub](https://github.com/braintrustdata/)
 - Browser Use *enable AI to to control your browser* [Site](https://browser-use.com/) - [GitHub](https://github.com/browser-use/browser-use)
 - Composio *integration platform for agents* [Site](https://composio.dev/) - [GitHub](https://github.com/ComposioHQ/composio)
 - Flowise *Low Code LLM App Builder* [Site](https://flowiseai.com/) - [GitHub](https://github.com/FlowiseAI/Flowise)
