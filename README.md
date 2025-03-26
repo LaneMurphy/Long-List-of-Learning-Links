@@ -76,6 +76,7 @@ Key; HFT = Has Free Tier
 - Shell
 - Swift
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
+  - Zod *tool to validate data structures and ensure type safety when using TypeScript* [GitHub](https://github.com/colinhacks/zod)
 
 ## Developer Tools 
 ### Software -> Frameworks / Libraries / Runtimes
