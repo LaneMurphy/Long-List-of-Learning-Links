@@ -155,6 +155,7 @@ Key; HFT = Has Free Tier
 - Letta *stateful agents framework* [Site](https://docs.letta.com/) - [GitHub](https://github.com/letta-ai/letta)
 - LlamaIndex *Agent Building Framework + Orchestration* [Site](https://www.llamaindex.ai/) - [GitHub](https://github.com/run-llama/llama_index) - [LlamaHub](https://llamahub.ai/)
 - Ollama *Run and experiment with Open Source Models locally* [Site](https://ollama.com/) - [GitHub](https://github.com/ollama)
+- 
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
@@ -199,6 +200,7 @@ Key; HFT = Has Free Tier
 #### Written Resources 
 - Interviewing IO Systems Design [Site](https://interviewing.io/guides/system-design-interview)
 - Reddit: How do you approach Systems Design? [Reddit](https://www.reddit.com/r/ExperiencedDevs/comments/163q1n1/how_do_you_approach_sys_design_interviews_as_the/)
+- OpenAI Developer Forum [Site](https://community.openai.com/)
 #### Video Resources 
 - Systems Design 10 Key Principles [YouTube](https://www.youtube.com/watch?v=8dG0qzNAVXI) 
 - Design WhatsApp / Telegram [YouTube](https://www.youtube.com/watch?v=M6UZ7pVD-rQ)
