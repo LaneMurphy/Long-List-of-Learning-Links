@@ -154,8 +154,8 @@ Key; HFT = Has Free Tier
 - LangSmith *Monitor, debug, and optimize LangChain/LangGraph apps* [Site](https://docs.smith.langchain.com/) - [GitHub](https://github.com/langchain-ai/langsmith-sdk)
 - Letta *stateful agents framework* [Site](https://docs.letta.com/) - [GitHub](https://github.com/letta-ai/letta)
 - LlamaIndex *Agent Building Framework + Orchestration* [Site](https://www.llamaindex.ai/) - [GitHub](https://github.com/run-llama/llama_index) - [LlamaHub](https://llamahub.ai/)
+- MCP (Model Context Protocol) *integration between LLM apps + external data sources* [Site](https://modelcontextprotocol.io/introduction) - [GitHub](https://github.com/modelcontextprotocol)
 - Ollama *Run and experiment with Open Source Models locally* [Site](https://ollama.com/) - [GitHub](https://github.com/ollama)
-- 
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
