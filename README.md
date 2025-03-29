@@ -78,8 +78,7 @@ Key; HFT = Has Free Tier
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
   - Zod *tool to validate data structures and ensure type safety when using TypeScript* [GitHub](https://github.com/colinhacks/zod)
 
-## Developer Tools 
-### Software -> Frameworks / Libraries / Runtimes
+## Software -> Frameworks / Libraries / Runtimes
 - Angular [Site](https://angular.dev/) - [GitHub](https://github.com/angular/angular)
 - Appwrite *containerized backend for web, mobile, Flutter* [Site](https://appwrite.io/) - [GitHub](https://github.com/appwrite/appwrite)
 - AriaKit *build accessible web apps with React* [Site](https://ariakit.org/) - [GitHub](https://github.com/ariakit/ariakit)
@@ -94,6 +93,8 @@ Key; HFT = Has Free Tier
 - Flutter *Toolkit for natively compiled cross-platform apps* [Site](https://flutter.dev/) - [GitHub](https://github.com/flutter)
 - Hotwire *Includes Stimulus, Turbo, and Hotwire Native - made by the creators of Ruby on Rails* [Site](https://hotwired.dev/) - [GitHub](https://github.com/hotwired)
 - Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
+- LLVM ***compiled compilers compiling compiled compilers***  [Site](https://llvm.org/) - [GitHub](https://github.com/llvm/llvm-project)
+  - includes several sub-projects related to building compilers and optimization like Clang, LLDB, MLIR, etc 
 - NodeJS [Site](https://nodejs.org/en) - [GitHub](https://github.com/nodejs) - [Honeypot Youtube Documentary](https://www.youtube.com/watch?v=LB8KwiiUGy0)
   - npm (Node Package Manager) - [Site](https://www.npmjs.com/)
 - P5.js *for the creative coder* [Site](https://p5js.org/)
@@ -109,7 +110,7 @@ Key; HFT = Has Free Tier
 - Three.js *JavaScript 3D Library* [Site](https://threejs.org/) - [GitHub](https://github.com/mrdoob/three.js)
 - Vue [Site](https://vuejs.org/) - [GitHub](https://github.com/vuejs/)
 
-### DevOps/Production/Infra/Build/Release
+## DevOps/Production/Infra/Build/Release
 - Ansible *infrastructure as code, config mgmt, automation, etc* [Site](https://github.com/ansible) - [GitHub](https://www.ansible.com/)
 - Argo *OSS Tools for Kubernetes workflows / Gitops* [Site](https://argoproj.github.io/) - [GitHub](https://github.com/argoproj)
 - Bazel *Build + Release automation* [Site](https://bazel.build/) - [GitHub](https://github.com/bazelbuild/bazel/)
@@ -143,7 +144,7 @@ Key; HFT = Has Free Tier
 - TUF
 - Vitess
 
-### Machine Learning / Artifical Intelligence 
+## Machine Learning / Artifical Intelligence 
 - braintrust *platform for building AI apps* [Site](https://www.braintrust.dev/) - [GitHub](https://github.com/braintrustdata/)
 - Browser Use *enable AI to to control your browser* [Site](https://browser-use.com/) - [GitHub](https://github.com/browser-use/browser-use)
 - Composio *integration platform for agents* [Site](https://composio.dev/) - [GitHub](https://github.com/ComposioHQ/composio)
