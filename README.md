@@ -149,6 +149,7 @@ Key; HFT = Has Free Tier
 - Composio *integration platform for agents* [Site](https://composio.dev/) - [GitHub](https://github.com/ComposioHQ/composio)
 - Flowise *Low Code LLM App Builder* [Site](https://flowiseai.com/) - [GitHub](https://github.com/FlowiseAI/Flowise)
 - Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
+- JAX *Low Level Python accelerator framework for ML* [Site](https://docs.jax.dev/en/latest/) - [GitHub](https://github.com/jax-ml/jax)
 - LangChain *LLM App building framework + Orchestration* [Site](https://www.langchain.com/) - [GitHub](https://github.com/langchain-ai)
 - LangGraph *Platform for multi-agent systems via graph* [Site](https://www.langchain.com/langgraph) - [GitHub](https://github.com/langchain-ai/langgraph)
 - LangSmith *Monitor, debug, and optimize LangChain/LangGraph apps* [Site](https://docs.smith.langchain.com/) - [GitHub](https://github.com/langchain-ai/langsmith-sdk)
