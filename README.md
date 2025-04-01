@@ -100,6 +100,7 @@ Key; HFT = Has Free Tier
 - P5.js *for the creative coder* [Site](https://p5js.org/)
 - React *UI Library for Web + Native* [Site](https://react.dev/) - [GitHub](https://github.com/facebook/react)
   - React Native [Site](https://reactnative.dev/) - [GitHub](https://github.com/facebook/react-native)
+    - expo [Site](https://expo.dev/) - [GitHub](https://github.com/expo/expo)
   - Next.js *Framework enabling Server Side Rendering for React Web Apps* [Site](https://nextjs.org/) [GitHub](https://github.com/vercel/next.js)
 - Ruby on Rails *Ruby Server Side Web Dev Framework* [Site](https://rubyonrails.org/) - [GitHub](https://github.com/rails/rails)
   - See Hotwire above for Fullstack Ruby
