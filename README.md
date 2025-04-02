@@ -162,6 +162,7 @@ Key; HFT = Has Free Tier
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
+- Triton *Low Level Deep Learning Language* [Site](https://triton-lang.org/main/index.html) - [GitHub](https://github.com/triton-lang/triton)
   
 ### Editors / Environments 
 - Cline *AI that can use your CLI and Editor* [Site](https://cline.bot/) - [GitHub](https://github.com/cline)
