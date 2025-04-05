@@ -178,6 +178,7 @@ Key; HFT = Has Free Tier
 - Netty *framework for event driven asynchronous network apps* [Site](https://netty.io/) - [GitHub](https://github.com/netty)
 
 ## Blockchain / Crypto
+- Ellipsis [Site](https://www.ellipsislabs.xyz/) - [GitHub](https://github.com/Ellipsis-Labs)
 - Ethereum [Site](https://ethereum.org/en/) - [GitHub](https://github.com/ethereum)
 - Internet Computer [Site](https://internetcomputer.org/)
 - Solana [Site](https://solana.com/) - [GitHub](https://github.com/solana-labs/solana)
