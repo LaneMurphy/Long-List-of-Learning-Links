@@ -7,7 +7,8 @@ Interview Sandbox - [Site](https://interviewsandbox.com/)
 
 ## Hands On Guided Projects
 - Replit Guides [Site](https://replit.com/guides)
-- Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp) 
+- Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp)
+- CodeCrafters *freemium* [Site](https://codecrafters.io/)
 
 ## Databases / Data Tooling / Data Plane
 Key; HFT = Has Free Tier
