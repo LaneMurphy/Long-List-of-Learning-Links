@@ -43,7 +43,8 @@ Key; HFT = Has Free Tier
 
 ## Programming Languages
 - ALGOL [Wikipedia](https://en.wikipedia.org/wiki/ALGOL)
-- C
+- C [Site](https://www.c-language.org/) - [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
+- Cython [Site](https://cython.org/) 
 - C#
 - C++
 - Chapel "Cascade High Productivity Language" [Site](https://chapel-lang.org/) - [GitHub](https://github.com/chapel-lang)
