@@ -149,6 +149,9 @@ Key; HFT = Has Free Tier
 - TUF
 - Vitess
 
+## Testing
+- Selenium [Site](https://www.selenium.dev/)
+
 ## Machine Learning / Artifical Intelligence 
 - braintrust *platform for building AI apps* [Site](https://www.braintrust.dev/) - [GitHub](https://github.com/braintrustdata/)
 - Browser Use *enable AI to to control your browser* [Site](https://browser-use.com/) - [GitHub](https://github.com/browser-use/browser-use)
