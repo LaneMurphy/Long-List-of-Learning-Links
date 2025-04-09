@@ -38,6 +38,7 @@ Key; HFT = Has Free Tier
 - PostgreSQL [Site](https://www.postgresql.org/) - [GitHub](https://github.com/postgres/postgres)
   - pgvector *Vector Similarity Search for Postgres* [GitHub](https://github.com/pgvector/pgvector)
 - Spark *Apache, data analytics engine* [Site](https://spark.apache.org/) - [GitHub](https://github.com/apache/spark)
+- Weaviate *Vector DB* [Site](https://weaviate.io/) - [GitHub](https://github.com/weaviate/weaviate)
 - YugabyteDB *Cloud native, OLTP, distributed SQL, high performance* [Site](https://www.yugabyte.com/) - [GitHub](https://github.com/yugabyte/yugabyte-db)
 - Zilliz *Also made Milvus* [Site](https://zilliz.com/) - [GitHub](https://github.com/zilliztech/)
 
