@@ -5,11 +5,6 @@
 Online IDE: Code Sandbox [Site](https://codesandbox.io/)
 Interview Sandbox - [Site](https://interviewsandbox.com/)
 
-## Hands On Guided Projects
-- Replit Guides [Site](https://replit.com/guides)
-- Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp)
-- CodeCrafters *freemium* [Site](https://codecrafters.io/)
-
 ## Databases / Data Tooling / Data Plane
 Key; HFT = Has Free Tier
 - Airflow *Apache, data workflow scheduling / monitoring* [Site](https://airflow.apache.org/) - [GitHub](https://github.com/apache/airflow)
@@ -205,6 +200,11 @@ Key; HFT = Has Free Tier
 ## Game Engines 
 - Godot *Multi-Platform 2D & 3D Game Engine* [Site](https://godotengine.org/) - [GitHub](https://github.com/godotengine/godot)
 - 8th Wall *WebXR and Web Games 3D, no-code* [Site](https://www.8thwall.com/) - [GitHub](https://github.com/8thwall)
+
+## Hands On Guided Projects
+- Replit Guides [Site](https://replit.com/guides)
+- Build Your Own Lisp [Site](https://buildyourownlisp.com/) - [Github](https://github.com/orangeduck/BuildYourOwnLisp)
+- CodeCrafters *freemium* [Site](https://codecrafters.io/)
 
 ## Technical Interviewing
 ### Green GitHubs Get Interviews
