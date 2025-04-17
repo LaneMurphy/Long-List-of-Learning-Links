@@ -96,6 +96,7 @@ Key; HFT = Has Free Tier
   - Django Rest Framework (DRF) *Django specific framework for building RESTful Web Services* [Site](https://www.django-rest-framework.org/) - [GitHub](https://github.com/encode/django-rest-framework)
 - Downshift js *simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components* [Site](https://www.downshift-js.com/) - [GitHub](https://github.com/downshift-js/downshift)
 - Flutter *Toolkit for natively compiled cross-platform apps* [Site](https://flutter.dev/) - [GitHub](https://github.com/flutter)
+- gRPC *API Framework for Microservices* [Site](https://grpc.io/) - [GitHub](https://github.com/grpc)
 - Hotwire *Includes Stimulus, Turbo, and Hotwire Native - made by the creators of Ruby on Rails* [Site](https://hotwired.dev/) - [GitHub](https://github.com/hotwired)
 - Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
 - LLVM ***compiled compilers compiling compiled compilers***  [Site](https://llvm.org/) - [GitHub](https://github.com/llvm/llvm-project)
