@@ -76,6 +76,7 @@ Key; HFT = Has Free Tier
   - Co-Founder of Language, [GitHub](https://github.com/brson)
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
 - Shell
+- SuperCollider [Site](https://supercollider.github.io/) - [GitHub](https://github.com/supercollider/supercollider)
 - Swift
 - TypeScript [Site](https://www.typescriptlang.org/) - [GitHub](https://github.com/microsoft/TypeScript)
   - Zod *tool to validate data structures and ensure type safety when using TypeScript* [GitHub](https://github.com/colinhacks/zod)
