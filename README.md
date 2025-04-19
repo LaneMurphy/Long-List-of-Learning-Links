@@ -53,6 +53,7 @@ Key; HFT = Has Free Tier
 - Dart *Foundational Language for Flutter, made by Google for cross-platform client side development* [Site](https://dart.dev/) [GitHub](https://github.com/dart-lang)
 - DM
 - Elixir - [Site](https://elixir-lang.org/) - [GitHub](https://github.com/elixir-lang/elixir)
+- Erlang
 - Fortran [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Groovy
@@ -60,6 +61,7 @@ Key; HFT = Has Free Tier
 - Java [OSS Site](https://openjdk.org/) - [OSS GitHub](https://github.com/openjdk) - [EE Site *(Oracle)*](https://www.oracle.com/java/)
 - JavaScript (ECMAScript) [Site](https://ecma-international.org/publications-and-standards/standards/ecma-262/) - [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)
 - Kotlin
+- Lua [Site](https://www.lua.org/) 
 - Mojo [Site](https://docs.modular.com/mojo/why-mojo) - [GitHub](https://github.com/modularml/mojo)
   - Redesign of Python built to take full advantage of MLIR
 - Objective-C
