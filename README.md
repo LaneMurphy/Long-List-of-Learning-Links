@@ -39,12 +39,11 @@ Key; HFT = Has Free Tier
 
 ## Programming Languages
 - ALGOL [Wikipedia](https://en.wikipedia.org/wiki/ALGOL)
-- C [Site](https://www.c-language.org/) - [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
+- C *procedural, low level, direct access to hardware/memory* [Site](https://www.c-language.org/) - [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 - ChucK *focused on sound synthesis and music creation* [Site](https://chuck.stanford.edu/) 
 - Cython [Site](https://cython.org/)
-  - C performance mixed with Python 
 - C#
-- C++
+- C++ *extension of C, higher level and supports OOP* [Site](https://cplusplus.com/) 
 - Chapel "Cascade High Productivity Language" [Site](https://chapel-lang.org/) - [GitHub](https://github.com/chapel-lang)
   - Designed for parallel computing on supercomputers, portable for many environments but parallelism + concurrency centric
 - COBOL [Wikipedia](https://en.wikipedia.org/wiki/COBOL)
