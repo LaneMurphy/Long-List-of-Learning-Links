@@ -52,8 +52,8 @@ Key; HFT = Has Free Tier
 - CSS
 - Dart *Foundational Language for Flutter, made by Google for cross-platform client side development* [Site](https://dart.dev/) [GitHub](https://github.com/dart-lang)
 - DM
-- Elixir - [Site](https://elixir-lang.org/) - [GitHub](https://github.com/elixir-lang/elixir)
-- Erlang
+- Elixir [Site](https://elixir-lang.org/) - [GitHub](https://github.com/elixir-lang/elixir)
+- Erlang [Site](https://www.erlang.org/) - [GitHub](https://github.com/erlang/otp)
 - FAUST *Functional Audio Stream, for audio processing/sound synthesis* - [Site](https://faust.grame.fr/) - [GitHub](https://github.com/grame-cncm/faust)
 - Fortran [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
