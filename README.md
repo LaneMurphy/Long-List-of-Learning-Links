@@ -54,6 +54,7 @@ Key; HFT = Has Free Tier
 - DM
 - Elixir - [Site](https://elixir-lang.org/) - [GitHub](https://github.com/elixir-lang/elixir)
 - Erlang
+- FAUST *Functional Audio Stream, for audio processing/sound synthesis* - [Site](https://faust.grame.fr/) - [GitHub](https://github.com/grame-cncm/faust)
 - Fortran [Wikipedia](https://en.wikipedia.org/wiki/Fortran)
 - Go / Golang [Site](https://go.dev/) - [Github](https://github.com/golang)
 - Groovy
