@@ -195,7 +195,8 @@ Key; HFT = Has Free Tier
 - Space and Time *blockchain for ZK proofs* [Site](https://www.spaceandtime.io/) - [GitHub](https://github.com/spaceandtimelabs)
 
 ## Cool Tools 
-- Lantern *VPN / Censorship Circumvention* [Site](https://lantern.io) - [GitHub](https://github.com/getlantern) 
+- Lantern *VPN / Censorship Circumvention* [Site](https://lantern.io) - [GitHub](https://github.com/getlantern)
+- Basic Pitch *Audio to MIDI Converter* [Site](https://basicpitch.spotify.com/) - [GitHub](https://github.com/spotify/basic-pitch)
 
 ## Operating Systems 
 
