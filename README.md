@@ -174,6 +174,10 @@ Key; HFT = Has Free Tier
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
 - Together AI *On-Demand GPU's, inference, training, etc* [Site](https://www.together.ai/) - [Docs](https://docs.together.ai/docs/introduction)
 - Triton *Low Level Deep Learning Language* [Site](https://triton-lang.org/main/index.html) - [GitHub](https://github.com/triton-lang/triton)
+
+## Operating Systems 
+- Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
+  - eBPF [Site](https://ebpf.io/) - [GitHub](https://github.com/isovalent)
   
 ### Editors / Environments 
 - Cline *AI that can use your CLI and Editor* [Site](https://cline.bot/) - [GitHub](https://github.com/cline)
@@ -198,10 +202,6 @@ Key; HFT = Has Free Tier
 ## Cool Tools 
 - Lantern *VPN / Censorship Circumvention* [Site](https://lantern.io) - [GitHub](https://github.com/getlantern)
 - Basic Pitch *Audio to MIDI Converter* [Site](https://basicpitch.spotify.com/) - [GitHub](https://github.com/spotify/basic-pitch)
-
-## Operating Systems 
-
-- Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
 
 ## Game Engines 
 - Godot *Multi-Platform 2D & 3D Game Engine* [Site](https://godotengine.org/) - [GitHub](https://github.com/godotengine/godot)
