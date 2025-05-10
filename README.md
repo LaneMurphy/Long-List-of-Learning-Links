@@ -175,9 +175,11 @@ Key; HFT = Has Free Tier
 - Together AI *On-Demand GPU's, inference, training, etc* [Site](https://www.together.ai/) - [Docs](https://docs.together.ai/docs/introduction)
 - Triton *Low Level Deep Learning Language* [Site](https://triton-lang.org/main/index.html) - [GitHub](https://github.com/triton-lang/triton)
 
-## Operating Systems 
-- Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
-  - eBPF [Site](https://ebpf.io/) - [GitHub](https://github.com/isovalent)
+## Linux 
+Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
+- cilium *NW, observability, sec tool powered by eBPF* [Site](https://cilium.io/) - [GitHub](https://github.com/cilium/cilium)
+- eBPF *build on the kernel* [Site](https://ebpf.io/) - [GitHub](https://github.com/isovalent)
+  
   
 ### Editors / Environments 
 - Cline *AI that can use your CLI and Editor* [Site](https://cline.bot/) - [GitHub](https://github.com/cline)
