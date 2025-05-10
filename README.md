@@ -39,6 +39,11 @@ Key; HFT = Has Free Tier
 
 ## Programming Languages
 - ALGOL [Wikipedia](https://en.wikipedia.org/wiki/ALGOL)
+- Assembly [Wikipedia](https://en.wikipedia.org/wiki/Assembly_language)
+  - ARM *RISC* [Site](https://www.arm.com/)
+  - MIPS *RISC* [Wikipedia](https://en.wikipedia.org/wiki/MIPS_architecture)
+  - RISC-V [Site](https://riscv.org/)
+  - x86 *Intel Syntax + several other assemblers, CISC + RISC* [Wikipedia](https://en.wikipedia.org/wiki/X86_assembly_language)
 - C *procedural, low level, direct access to hardware/memory* [Site](https://www.c-language.org/) - [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language))
 - ChucK *focused on sound synthesis and music creation* [Site](https://chuck.stanford.edu/) 
 - Cython [Site](https://cython.org/)
