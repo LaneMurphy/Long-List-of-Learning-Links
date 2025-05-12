@@ -164,6 +164,7 @@ Key; HFT = Has Free Tier
 - Browser Use *enable AI to to control your browser* [Site](https://browser-use.com/) - [GitHub](https://github.com/browser-use/browser-use)
 - Composio *integration platform for agents* [Site](https://composio.dev/) - [GitHub](https://github.com/ComposioHQ/composio)
 - Flowise *Low Code LLM App Builder* [Site](https://flowiseai.com/) - [GitHub](https://github.com/FlowiseAI/Flowise)
+- Haystack *build apps powered by LLM's* [Site](https://haystack.deepset.ai/) - [GitHub](https://github.com/deepset-ai/haystack)
 - Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
 - JAX *Low Level Python accelerator framework for ML* [Site](https://docs.jax.dev/en/latest/) - [GitHub](https://github.com/jax-ml/jax)
 - LangChain *LLM App building framework + Orchestration* [Site](https://www.langchain.com/) - [GitHub](https://github.com/langchain-ai)
