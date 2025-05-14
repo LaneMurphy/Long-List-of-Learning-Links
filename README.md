@@ -163,6 +163,7 @@ Key; HFT = Has Free Tier
 - braintrust *platform for building AI apps* [Site](https://www.braintrust.dev/) - [GitHub](https://github.com/braintrustdata/)
 - Browser Use *enable AI to to control your browser* [Site](https://browser-use.com/) - [GitHub](https://github.com/browser-use/browser-use)
 - Composio *integration platform for agents* [Site](https://composio.dev/) - [GitHub](https://github.com/ComposioHQ/composio)
+- DSPy *framework for programming language models* [Site](https://dspy.ai/) - [GitHub](https://github.com/stanfordnlp/dspy)
 - Flowise *Low Code LLM App Builder* [Site](https://flowiseai.com/) - [GitHub](https://github.com/FlowiseAI/Flowise)
 - Haystack *build apps powered by LLM's* [Site](https://haystack.deepset.ai/) - [GitHub](https://github.com/deepset-ai/haystack)
 - Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
