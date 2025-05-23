@@ -1,7 +1,5 @@
 # Long-List-of-Learning-Links
 
-- Work in progress repository storing links to **FREE** web pages, youtube videos, tutorials, GitHub repos, and general internet sources on topics of all flavors.
-
 Online IDE: Code Sandbox [Site](https://codesandbox.io/)
 Interview Sandbox - [Site](https://interviewsandbox.com/)
 
