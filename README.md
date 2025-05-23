@@ -16,7 +16,7 @@ Key; HFT = Has Free Tier
 - Hudi *Apache, OSS Data Lakehouse Platform* [Site](https://hudi.apache.org/) - [GitHub](https://github.com/apache/hudi)
 - Impala *Apache, low latency C++ distibuted SQL Engine* [Site](https://impala.apache.org/index.html) - [GitHub](https://github.com/apache/impala)
 - Kafka *Apache, very popular event streaming platform* [Site](https://kafka.apache.org/) - [GitHub](https://github.com/apache/kafka)
-- kdb+ *Time Series - FAST used in high frequency trading* **HFT** [Site](https://kx.com/products/kdb/) - [GitHub](https://github.com/KxSystems)
+- kdb+ *Time Series - used in high frequency trading* **HFT** [Site](https://kx.com/products/kdb/) - [GitHub](https://github.com/KxSystems)
 - Kudu *Apache, distributed storage engine for analytics* [Site](https://kudu.apache.org/) - [GitHub](https://github.com/apache/kudu)
 - Lantern *Postgres + vector* [Site](https://lantern.dev/) - [GitHub](https://github.com/lanterndata/lantern)
 - MariaDB [Site](https://mariadb.org/) - [GitHub](https://github.com/mariadb)
@@ -101,7 +101,7 @@ Key; HFT = Has Free Tier
 - gRPC *API Framework for Microservices* [Site](https://grpc.io/) - [GitHub](https://github.com/grpc)
 - Hotwire *Includes Stimulus, Turbo, and Hotwire Native - made by the creators of Ruby on Rails* [Site](https://hotwired.dev/) - [GitHub](https://github.com/hotwired)
 - Lit [Site](https://lit.dev/) - [Github](https://github.com/lit)
-- LLVM ***compiled compilers compiling compiled compilers***  [Site](https://llvm.org/) - [GitHub](https://github.com/llvm/llvm-project)
+- LLVM **compilers**  [Site](https://llvm.org/) - [GitHub](https://github.com/llvm/llvm-project)
   - includes several sub-projects related to building compilers and optimization like Clang, LLDB, MLIR, etc 
 - NodeJS [Site](https://nodejs.org/en) - [GitHub](https://github.com/nodejs) - [Honeypot Youtube Documentary](https://www.youtube.com/watch?v=LB8KwiiUGy0)
   - npm (Node Package Manager) - [Site](https://www.npmjs.com/)
