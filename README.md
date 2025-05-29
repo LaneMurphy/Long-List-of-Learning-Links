@@ -176,6 +176,7 @@ Key; HFT = Has Free Tier
 - Phoenix *Observability platform for LLM's* [Site](https://docs.arize.com/phoenix) - [GitHub](https://github.com/Arize-ai/phoenix)
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
+- SkyPilot [GitHub](https://github.com/skypilot-org/skypilot)
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
 - Together AI *On-Demand GPU's, inference, training, etc* [Site](https://www.together.ai/) - [Docs](https://docs.together.ai/docs/introduction)
 - Triton *Low Level Deep Learning Language* [Site](https://triton-lang.org/main/index.html) - [GitHub](https://github.com/triton-lang/triton)
