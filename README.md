@@ -76,6 +76,7 @@ Key; HFT = Has Free Tier
 - PowerShell
 - Python [Site](https://www.python.org/) - [GitHub](https://github.com/python/cpython)
 - Ruby [Site](https://www.ruby-lang.org/en/) - [Github](https://github.com/ruby/ruby)
+  - Sorbet *Type Safe Ruby* [GitHub](https://github.com/sorbet/sorbet) 
 - Rust [Site](https://www.rust-lang.org/) - [GitHub](https://github.com/rust-lang/rust)
   - Co-Founder of Language, [GitHub](https://github.com/brson)
 - Scala [Site](https://www.scala-lang.org/) - [GitHub](https://github.com/scala)
