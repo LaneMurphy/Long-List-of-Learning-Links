@@ -119,6 +119,7 @@ Key; HFT = Has Free Tier
 - Streamlit *Turn Python Scripts into Web Apps* [Site](https://streamlit.io/) - [GitHub](https://github.com/streamlit/streamlit)
 - TailwindCSS [Site](https://tailwindcss.com/) - [GitHub](https://github.com/tailwindlabs/tailwindcss)
 - Three.js *JavaScript 3D Library* [Site](https://threejs.org/) - [GitHub](https://github.com/mrdoob/three.js)
+  - React Three Fiber / R3F *React Renderer for three.js* [Site](https://r3f.docs.pmnd.rs/getting-started/introduction) - [GitHub](https://github.com/pmndrs/react-three-fiber)
 - Vue [Site](https://vuejs.org/) - [GitHub](https://github.com/vuejs/)
 
 ## DevOps/Production/Infra/Build/Release
