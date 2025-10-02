@@ -183,7 +183,7 @@ Key; HFT = Has Free Tier
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
 - Together AI *On-Demand GPU's, inference, training, etc* [Site](https://www.together.ai/) - [Docs](https://docs.together.ai/docs/introduction)
 - Triton *Low Level Deep Learning Language* [Site](https://triton-lang.org/main/index.html) - [GitHub](https://github.com/triton-lang/triton)
-- 
+- vLLM *Inference Engine for serving LLM's* [Site](https://docs.vllm.ai/en/latest/) - [GitHub](https://github.com/vllm-project/vllm) 
 
 ## Linux 
 Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
