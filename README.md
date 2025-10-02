@@ -165,6 +165,7 @@ Key; HFT = Has Free Tier
 - Browser Use *enable AI to to control your browser* [Site](https://browser-use.com/) - [GitHub](https://github.com/browser-use/browser-use)
 - Composio *integration platform for agents* [Site](https://composio.dev/) - [GitHub](https://github.com/ComposioHQ/composio)
 - DSPy *framework for programming language models* [Site](https://dspy.ai/) - [GitHub](https://github.com/stanfordnlp/dspy)
+- FlashAttention [Site/Paper](https://arxiv.org/abs/2205.14135) - [GitHub](https://github.com/Dao-AILab/flash-attention)
 - Flowise *Low Code LLM App Builder* [Site](https://flowiseai.com/) - [GitHub](https://github.com/FlowiseAI/Flowise)
 - Haystack *build apps powered by LLM's* [Site](https://haystack.deepset.ai/) - [GitHub](https://github.com/deepset-ai/haystack)
 - Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
