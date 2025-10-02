@@ -164,6 +164,7 @@ Key; HFT = Has Free Tier
 - braintrust *platform for building AI apps* [Site](https://www.braintrust.dev/) - [GitHub](https://github.com/braintrustdata/)
 - Browser Use *enable AI to to control your browser* [Site](https://browser-use.com/) - [GitHub](https://github.com/browser-use/browser-use)
 - Composio *integration platform for agents* [Site](https://composio.dev/) - [GitHub](https://github.com/ComposioHQ/composio)
+- DeepSpeed *DL optimization library for training/inference* [Site](https://www.deepspeed.ai/) - [GitHub](https://github.com/deepspeedai/DeepSpeed)
 - DSPy *framework for programming language models* [Site](https://dspy.ai/) - [GitHub](https://github.com/stanfordnlp/dspy)
 - FlashAttention [Site/Paper](https://arxiv.org/abs/2205.14135) - [GitHub](https://github.com/Dao-AILab/flash-attention)
 - Flowise *Low Code LLM App Builder* [Site](https://flowiseai.com/) - [GitHub](https://github.com/FlowiseAI/Flowise)
