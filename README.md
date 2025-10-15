@@ -95,6 +95,8 @@ Key; HFT = Has Free Tier
 - D3.js *Data Visualization JavaScript Library* [Site](https://d3js.org/) - [GitHub](https://github.com/d3)
 - Deno [Site](https://deno.com/) - [GitHub](https://github.com/denoland/deno)
   - Ryan Dahl, made NodeJS - a newer more extensive and comprehensive version that includes typescript natively
+- Dioxus [Site](https://dioxuslabs.com/) - [GitHub](https://github.com/dioxuslabs/dioxus)
+  - Rust -> Fullstack app framework for Web, Desktop, and Mobile
 - Django *Python Server Side Web Dev Framework* [Site](https://www.djangoproject.com/) - [GitHub](https://github.com/django/django)
   - Django Rest Framework (DRF) *Django specific framework for building RESTful Web Services* [Site](https://www.django-rest-framework.org/) - [GitHub](https://github.com/encode/django-rest-framework)
 - Downshift js *simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components* [Site](https://www.downshift-js.com/) - [GitHub](https://github.com/downshift-js/downshift)
