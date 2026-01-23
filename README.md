@@ -230,8 +230,7 @@ Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) 
 - CodeCrafters *freemium* [Site](https://codecrafters.io/)
 
 ## Technical Interviewing
-### Green GitHubs Get Interviews
-- Go into settings and make sure you check "include private repository contributions" - no one sees the code, they see commits
+
 
 ### Systems Design
 #### Tools 
