@@ -140,6 +140,7 @@ Key; HFT = Has Free Tier
 - Grafana
 - Harbor
 - Helm
+- Istio *Service Mesh* [Site](https://istio.io/) - [GitHub](https://github.com/istio/istio)
 - Jaeger
 - Kubernetes *container orchestration* [Site](https://kubernetes.io/) - [GitHub](https://github.com/kubernetes/kubernetes)
 - Kubeflow *AI/ML Infra* [Site](https://www.kubeflow.org/) - [GitHub](https://github.com/kubeflow)
