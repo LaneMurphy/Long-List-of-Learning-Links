@@ -1,7 +1,6 @@
 # Long-List-of-Learning-Links
 
-Online IDE: Code Sandbox [Site](https://codesandbox.io/)
-Interview Sandbox - [Site](https://interviewsandbox.com/)
+
 
 ## Databases / Data Tooling / Data Plane
 Key; HFT = Has Free Tier
@@ -199,8 +198,10 @@ Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) 
   
 ### Editors / Environments 
 - Cline *AI that can use your CLI and Editor* [Site](https://cline.bot/) - [GitHub](https://github.com/cline)
+- Code Sandbox [Site](https://codesandbox.io/)
 - Cursor *AI Code Editor* [Site](https://www.cursor.com/en) - [GitHub](https://github.com/getcursor/cursor)
 - Emacs [Site](https://www.gnu.org/software/emacs/)
+- Interview Sandbox - [Site](https://interviewsandbox.com/)
 - JetBrains *includes several like IntelliJ, WebStorm, PyCharm* [Site](https://www.jetbrains.com/)
 - Replit [Site](https://replit.com/)
 - VSCode [Site](https://code.visualstudio.com/) - [GitHub](https://github.com/microsoft/vscode)
