@@ -132,7 +132,7 @@ Key; HFT = Has Free Tier
 - containerd *container runtime* [Site](https://containerd.io/) - [GitHub](https://github.com/containerd)
 - CoreDNS
 - Docker *Containerization* [Site](https://www.docker.com/) - [GitHub](https://github.com/docker)
-- Envoy
+- Envoy *Proxy for Edge, Middleware, microservices* [Site](https://www.envoyproxy.io/) - [GitHub](https://github.com/envoyproxy/envoy)
 - ELK - Elasticsearch, Logstach, Kibana
 - etcd
 - Fluentd
