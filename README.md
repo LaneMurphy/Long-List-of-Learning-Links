@@ -181,6 +181,7 @@ Key; HFT = Has Free Tier
 - MCP (Model Context Protocol) *integration between LLM apps + external data sources* [Site](https://modelcontextprotocol.io/introduction) - [GitHub](https://github.com/modelcontextprotocol)
 - Ollama *Run and experiment with Open Source Models locally* [Site](https://ollama.com/) - [GitHub](https://github.com/ollama)
 - Phoenix *Observability platform for LLM's* [Site](https://docs.arize.com/phoenix) - [GitHub](https://github.com/Arize-ai/phoenix)
+- Pioneer *Fine-tune your own Models locally* [Site](https://pioneer.ai/) - [GitHub](https://github.com/fastino-ai)
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
 - Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
 - SkyPilot [GitHub](https://github.com/skypilot-org/skypilot)
