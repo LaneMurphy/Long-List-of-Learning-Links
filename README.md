@@ -170,6 +170,7 @@ Key; HFT = Has Free Tier
 - DSPy *framework for programming language models* [Site](https://dspy.ai/) - [GitHub](https://github.com/stanfordnlp/dspy)
 - FlashAttention [Site/Paper](https://arxiv.org/abs/2205.14135) - [GitHub](https://github.com/Dao-AILab/flash-attention)
 - Flowise *Low Code LLM App Builder* [Site](https://flowiseai.com/) - [GitHub](https://github.com/FlowiseAI/Flowise)
+- Goose *1st OSS Agent Framework Designed to be native with MCP* [Site](https://block.github.io/goose/) - [GitHub](https://github.com/block/goose)
 - Haystack *build apps powered by LLM's* [Site](https://haystack.deepset.ai/) - [GitHub](https://github.com/deepset-ai/haystack)
 - Hugging Face *Open Source Models* [Site](https://huggingface.co/) 
 - JAX *Low Level Python accelerator framework for ML* [Site](https://docs.jax.dev/en/latest/) - [GitHub](https://github.com/jax-ml/jax)
