@@ -184,7 +184,7 @@ Key; HFT = Has Free Tier
 - Phoenix *Observability platform for LLM's* [Site](https://docs.arize.com/phoenix) - [GitHub](https://github.com/Arize-ai/phoenix)
 - Pioneer *Fine-tune your own Models locally* [Site](https://pioneer.ai/) - [GitHub](https://github.com/fastino-ai)
 - PyTorch *Deep Learning Framework* [Site](https://calendly.com/lane-quantumtalent) - [GitHub](https://github.com/pytorch)
-- Ray *Runtime and set of libraries for ML acceleration - best used with Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
+- Ray *Runtime and set of libraries for ML acceleration - Anyscale* [Site](https://docs.ray.io/en/latest/#) - [GitHub](https://github.com/ray-project)
 - SkyPilot [GitHub](https://github.com/skypilot-org/skypilot)
 - SGLang *Serving Framework for LLMs and VLMs* [Site](https://docs.sglang.ai/) - [GitHub](https://github.com/sgl-project/sglang)
 - TensorFlow *Machine Learning Framework* [Site](https://www.tensorflow.org/) - [GitHub](https://github.com/tensorflow)
@@ -195,7 +195,7 @@ Key; HFT = Has Free Tier
 ## Linux 
 Linux [Site](https://kernel.org/) - [GitHub](https://github.com/torvalds/linux) - [Git Kernel](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/)
 - cilium *NW, observability, sec tool powered by eBPF* [Site](https://cilium.io/) - [GitHub](https://github.com/cilium/cilium)
-- eBPF *build on the kernel* [Site](https://ebpf.io/) - [GitHub](https://github.com/isovalent)
+- eBPF [Site](https://ebpf.io/) - [GitHub](https://github.com/isovalent)
   
   
 ### Editors / Environments 
